@@ -1,0 +1,843 @@
+;id;Name;Main Story;Main + Extras;Completionist;All Styles;Platforms;Genre;Developer;Publisher;NA;EU;JP
+0;1.0; 688(I) Hunter/Killer ;9½ Hours ;24 Hours ;50½ Hours ;15½ Hours ;   PC ;   Simulation ;   Sonalysts ;   Electronic Arts ;July 04, 1997 ;NAN;NAN
+1;2.0; Beyond Good & Evil 2 ;-- ;-- ;-- ;-- ;NAN;NAN;   Ubisoft Montpellier ;   Ubisoft ;NAN;NAN;NAN
+2;16.0; Shadow of the Comet ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+3;18.0; 'Splosion Man ;8 Hours ;9½ Hours ;17½ Hours ;9 Hours ;   Xbox 360 ;   Action ;   Twisted Pixel Games ;   Microsoft Games Studios ;July 22, 2009 ;July 22, 2009 ;NAN
+4;19.0; .hack//G.U. Vol. 1: Rebirth ;19½ Hours ;24½ Hours ;38½ Hours ;23½ Hours ;   PC, PlayStation 2, PlayStation 4 ;NAN;   CyberConnect2 ;   Bandai ;October 24, 2006 ;NAN;May 18, 2006 
+5;21.0; .hack//G.U. Vol. 3: Redemption ;21½ Hours ;32½ Hours ;50 Hours ;27 Hours ;   PC, PlayStation 2, PlayStation 4 ;NAN;   CyberConnect2 ;   Bandai ;March 25, 2008 ;NAN;January 18, 2007 
+6;22.0; .hack//Infection ;17 Hours ;20 Hours ;29½ Hours ;20 Hours ;   PlayStation 2 ;NAN;NAN;   Bandai S.A. ;February 11, 2003 ;NAN;NAN
+7;23.0; .hack//Link ;29 Hours ;44½ Hours ;-- ;36½ Hours ;   PlayStation Portable ;   Role-Playing ;   CyberConnect2 ;   Namco Bandai Games ;NAN;NAN;March 04, 2010 
+8;24.0; .hack//Mutation ;15½ Hours ;20½ Hours ;30 Hours ;21 Hours ;   PlayStation 2 ;NAN;   CyberConnect2 ;   Bandai Games ;May 07, 2003 ;NAN;September 09, 2002 
+9;25.0; .hack//Outbreak ;18 Hours ;20½ Hours ;21 Hours ;20 Hours ;   PlayStation 2 ;   Action RPG ;   CyberConnect2 ;   Bandai ;September 09, 2003 ;September 10, 2004 ;December 12, 2002 
+10;26.0; .hack//Quarantine ;17 Hours ;20½ Hours ;24 Hours ;20 Hours ;   PlayStation 2 ;NAN;   CyberConnect2 ;   Bandai ;January 20, 2004 ;December 03, 2004 ;April 10, 2003 
+11;28.0; 007 Legends: Skyfall DLC ;25 Mins ;-- ;27 Mins ;25 Mins ;   PC, PlayStation 3, Wii U, Xbox 360 ;NAN;   Eurocom ;   Activision ;September 11, 2012 ;NAN;NAN
+12;29.0; 007 Racing ;3 Hours ;3 Hours ;3 Hours ;3 Hours ;   PlayStation ;   Racing ;   Eutechnyx ;   Electronic Arts ;November 20, 2000 ;December 15, 2000 ;NAN
+13;30.0; 007: Licence to Kill ;48 Mins ;3 Hours ;-- ;2 Hours ;   Amstrad CPC, PC ;NAN;   Quixel ;   Domark ;April 20, 1989 ;NAN;NAN
+14;31.0; 0D Beat Drop ;-- ;-- ;-- ;-- ;   Xbox 360 ;   Puzzle ;   Arc System Works ;NAN;November 11, 2009 ;NAN;NAN
+15;33.0; GO Series: 10 Second Run ;30 Mins ;1 Hours ;2½ Hours ;1½ Hours ;   Nintendo 3DS ;   Platform ;   GAMEBRIDGE ;NAN;September 20, 2010 ;NAN;NAN
+16;34.0; 10-Yard Fight ;22 Mins ;50 Mins ;1½ Hours ;1 Hours ;   NES ;   Sports ;   Irem ;NAN;October 1985 ;NAN;August 30, 1985 
+17;35.0; 100 All-Time Favorites ;-- ;15½ Hours ;-- ;15½ Hours ;NAN;NAN;NAN;   Ubisoft ;NAN;NAN;NAN
+18;36.0; 100 Rogues ;-- ;-- ;-- ;-- ;NAN;   Roguelike ;   Dinofarm Games ;   Fusion Reactions ;May 04, 2010 ;NAN;NAN
+19;37.0; 1000 Amps ;4 Hours ;4½ Hours ;5 Hours ;4½ Hours ;   PC ;NAN;   Brandon Brizzi ;   Brandon Brizzi ;February 22, 2012 ;NAN;NAN
+20;38.0; 10000000 ;6 Hours ;7½ Hours ;9 Hours ;7½ Hours ;   Mobile, PC ;NAN;   EightyEight Games ;   EightyEight Games ;August 29, 2012 ;NAN;NAN
+21;39.0; 101-in-1 Explosive Megamix ;-- ;-- ;20 Hours ;20 Hours ;   Nintendo DS ;   Various ;   Nordcurrent ;   Atlus ;April 21, 2009 ;November 28, 2008 ;NAN
+22;40.0; 102 Dalmatians: Puppies to the Rescue ;6 Hours ;6½ Hours ;9 Hours ;7 Hours ;   Dreamcast, Game Boy Color, PC, PlayStation ;NAN;NAN;   Eidos Interactive ;November 15, 2000 ;NAN;NAN
+23;42.0; 1080° Avalanche ;2½ Hours ;10 Hours ;10 Hours ;8½ Hours ;   Nintendo GameCube ;NAN;   NST ;   Nintendo ;December 01, 2003 ;NAN;January 22, 2004 
+24;43.0; 11eyes CrossOver ;-- ;-- ;-- ;-- ;NAN;   Visual Novel ;   Lass ;   5pb. ;NAN;NAN;April 02, 2009 
+25;44.0; 11eyes ~Tsumi to Batsu to Aganai no Shoujo~ ;-- ;-- ;-- ;-- ;   PC ;   Visual Novel ;   Lass ;NAN;NAN;NAN;April 05, 2008 
+26;45.0; 11th Hour ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+27;46.0; 15 Days ;6½ Hours ;7 Hours ;12 Hours ;7½ Hours ;   PC ;NAN;   House of Tales Entertainment ;NAN;NAN;June 25, 2010 ;NAN
+28;48.0; 18 Wheeler: American Pro Trucker ;57 Mins ;-- ;2 Hours ;1 Hours ;   Dreamcast, Nintendo GameCube, PlayStation 2 ;NAN;   Sega-AM2 ;NAN;May 25, 2001 ;June 01, 2001 ;October 12, 2000 
+29;49.0; 18 Wheels Across America ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+30;51.0; 1916 - Der unbekannte Krieg ;15 Mins ;18 Mins ;25 Mins ;18 Mins ;   Browser, PC ;NAN;   DADIU ;   DADIU ;NAN;NAN;NAN
+31;54.0; 1942 ;2 Hours ;2½ Hours ;3 Hours ;2 Hours ;   Arcade, NES, PlayStation 2, Sega Saturn ;NAN;   Capcom ;   Capcom ;December 1984 ;December 1984 ;December 1984 
+32;55.0; 1942: Joint Strike ;1½ Hours ;-- ;-- ;1½ Hours ;   PlayStation 3, Xbox 360 ;   Vertical scrolling shooter ;   Backbone Entertainment ;   Capcom ;July 23, 2008 ;July 23, 2008 ;NAN
+33;56.0; 1943: The Battle of Midway ;1½ Hours ;1½ Hours ;2 Hours ;1½ Hours ;   Amiga, Amstrad CPC, Arcade, Atari ST, Commodore 64, NES, PC, PlayStation 2, PlayStation 4, Sega Saturn, Xbox One, ZX Spectrum ;NAN;   Capcom ;   Capcom ;June 1987 ;June 1987 ;June 1987 
+34;57.0; 1944: The Loop Master ;46 Mins ;47 Mins ;-- ;46 Mins ;   Arcade, Nintendo Switch ;   Scrolling Shooter ;   8ing/Raizing ;   Capcom ;June 20, 2000 ;NAN;June 20, 2000 
+35;58.0; 1991 Du Ma Racing ;-- ;15 Mins ;30 Mins ;20 Mins ;   NES ;   Sports ;   Idea-Tek ;   Super Mega ;NAN;NAN; 1991 
+36;59.0; 19XX: The War Against Destiny ;35 Mins ;-- ;4 Hours ;45 Mins ;   Arcade, Nintendo Switch ;NAN;   Capcom ;   Capcom ;December 07, 1996 ;December 18, 1995 ;December 25, 1995 
+37;60.0; 2010 FIFA World Cup South Africa ;13½ Hours - 35 Hours ;25 Hours ;-- ;NAN;   PlayStation 3, PlayStation Portable, Wii, Xbox 360 ;   Sports ;NAN;   EA Sports ;April 27, 2010 ;April 30, 2010 ;NAN
+38;61.0; 24: The Game ;11 Hours ;11½ Hours ;-- ;11½ Hours ;   PlayStation 2 ;   Third-person shooter ;   SCE Studio Cambridge ;NAN;February 27, 2006 ;March 17, 2006 ;NAN
+39;62.0; 25 To Life ;4 Hours ;4½ Hours ;11 Hours ;4½ Hours ;   PC, PlayStation 2, Xbox ;   Third-person shooter ;NAN;   Eidos Interactive ;January 17, 2006 ;June 01, 2007 ;NAN
+40;63.0; 3 on 3 NHL Arcade ;1 Hours ;-- ;2 Hours ;1½ Hours ;   PlayStation 3, Xbox 360 ;   Sports ;   EA Canada ;   EA Sports ;February 11, 2009 ;February 11, 2009 ;NAN
+41;65.0; 3-D WorldRunner ;1 Hours ;1 Hours ;1½ Hours ;1½ Hours ;   NES ;NAN;   Square ;NAN;September 1987 ;NAN;March 12, 1987 
+42;66.0; 3079 ;3 Hours ;3½ Hours ;3½ Hours ;3½ Hours ;   PC ;NAN;   phr00t ;NAN; 2011 ;NAN;NAN
+43;69.0; 3D Dot Game Heroes ;15½ Hours ;21 Hours ;26½ Hours ;20 Hours ;   PlayStation 3 ;NAN;   Silicon Studio ;   Atlus ;May 11, 2010 ;May 14, 2010 ;November 05, 2009 
+44;70.0; 3D Pinball Express ;-- ;-- ;-- ;-- ;NAN;   Pinball ;NAN;   Kelly Media ;NAN;NAN;NAN
+45;71.0; 3D Ultra MiniGolf Adventures ;5½ Hours ;-- ;-- ;5½ Hours ;   PC, Xbox 360 ;   Sports ;   Wanako Studios ;   Sierra On-Line ;April 18, 2007 ;NAN;NAN
+46;74.0; 3rd Super Robot Wars Alpha: To the End of the Galaxy ;79 Hours ;-- ;-- ;79 Hours ;   PlayStation 2 ;   Tactical RPG ;   Banpresto ;   Banpresto ;NAN;NAN;July 28, 2005 
+47;76.0; 3Xtreme ;1 Hours ;4 Hours ;-- ;2 Hours ;   PlayStation ;   Sports ;   989 Sports ;   989 Sports ;April 21, 1999 ;NAN;NAN
+48;77.0; 4 Elements ;8 Hours ;9 Hours ;10 Hours ;9½ Hours ;   Nintendo 3DS, Nintendo DS, PC, PlayStation 3 ;NAN;   Playrix Entertainment ;   Playrix Entertainment ;September 03, 2008 ;NAN;NAN
+49;78.0; 4 Wheel Drive ;40 Mins ;-- ;-- ;40 Mins ;NAN;NAN;   IDL Group ;   Gremlin Graphics ;November 1994 ; 1994 ;NAN
+50;79.0; 40 Winks ;7 Hours ;10½ Hours ;12 Hours ;9 Hours ;   Nintendo 64, PC, PlayStation ;   Platform ;   Eurocom ;   GT Interactive ;November 14, 1999 ;November 1999 ;NAN
+51;80.0; 400 Years ;17 Mins ;33 Mins ;-- ;20 Mins ;   Browser, PC ;   Puzzle ;   Scriptwelder ;NAN;NAN;NAN;NAN
+52;84.0; 5 Days a Stranger ;3 Hours ;-- ;3 Hours ;3 Hours ;   PC ;   Adventure ;"   Ben ""Yahtzee"" Croshaw ";"   Ben ""Yahtzee"" Croshaw ";September 29, 2003 ;NAN;NAN
+53;85.0; 50 Cent: Blood on the Sand ;5 Hours ;7½ Hours ;9½ Hours ;6 Hours ;   PlayStation 2, PlayStation 3, Xbox 360 ;NAN;   Swordfish Studios ;   THQ ;February 24, 2009 ;February 20, 2009 ;NAN
+54;86.0; 50 Cent: Bulletproof ;5½ Hours ;6½ Hours ;10 Hours ;6½ Hours ;   PlayStation 2, PlayStation Portable, Xbox ;   Action ;NAN;NAN;November 17, 2005 ;November 25, 2005 ;NAN
+55;87.0; 6 Day Assassin ;15 Mins ;-- ;-- ;15 Mins ;   PC ;   Adventure ;NAN;NAN;NAN;NAN;NAN
+56;88.0; 6 Days a Sacrifice ;2 Hours ;-- ;3 Hours ;3 Hours ;   PC ;   Adventure ;"   Ben ""Yahtzee"" Croshaw ";"   Ben ""Yahtzee"" Croshaw ";January 25, 2007 ;NAN;NAN
+57;89.0; 6 Degrees of Sabotage ;15 Mins ;-- ;17 Mins ;15 Mins ;   Browser ;NAN;   Lucas Pope ;NAN;NAN;NAN;NAN
+58;90.0; 60 Seconds Burger Run ;5 Mins ;15 Mins ;38 Mins ;15 Mins ;   Browser ;   Action ;NAN;NAN;NAN;NAN;NAN
+59;91.0; 60 Seconds Santa Run ;15 Mins ;-- ;-- ;15 Mins ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+60;93.0; 7 Days a Skeptic ;3 Hours ;-- ;3½ Hours ;3 Hours ;   PC ;   Adventure ;"   Ben ""Yahtzee"" Croshaw ";"   Ben ""Yahtzee"" Croshaw ";July 27, 2004 ;July 27, 2004 ;NAN
+61;95.0; 7 Wonders II ;6 Hours ;5½ Hours ;6½ Hours ;5½ Hours ;   PC ;   Puzzle ;   MumboJumbo ;   MumboJumbo ;June 10, 2008 ;NAN;NAN
+62;96.0; 7 Wonders of the Ancient World ;5 Hours ;5 Hours ;6½ Hours ;5½ Hours ;   PC, PlayStation Portable ;   Puzzle ;   Hot Lava Games ;   MumboJumbo ;February 02, 2007 ;NAN;NAN
+63;98.0; 7 Wonders: Treasures of Seven ;7 Hours ;7½ Hours ;9 Hours ;7½ Hours ;   PC ;   Puzzle ;   MumboJumbo ;   MumboJumbo ;October 24, 2008 ;NAN;NAN
+64;99.0; 720 ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+65;100.0; 720 Degrees ;2 Hours ;-- ;3 Hours ;2½ Hours ;   Amstrad CPC, Arcade, Commodore 64, Game Boy Color, NES, ZX Spectrum ;   Sports ;   Atari Games ;   Atari Games ;December 1986 ;NAN;NAN
+66;101.0; 7th Dragon ;34½ Hours ;46½ Hours ;90½ Hours ;48½ Hours ;   Nintendo DS ;   Role-Playing ;NAN;   Sega ;NAN;NAN;March 05, 2009 
+67;102.0; 7th Dragon 2020 ;32½ Hours ;34½ Hours ;37½ Hours ;35 Hours ;   PlayStation Portable ;   Role-Playing ;NAN;   Sega ;NAN;NAN;November 23, 2011 
+68;103.0; 7th Dragon 2020-II ;30 Hours ;35 Hours ;37½ Hours ;35½ Hours ;   PlayStation Portable ;NAN;   Sega ;   Sega ;NAN;NAN;April 18, 2013 
+69;104.0; 8 Eyes ;2½ Hours ;2½ Hours ;5 Hours ;2½ Hours ;   NES, PC ;   Platform ;   Thinking Rabbit ;   Taxan ;January 1990 ;NAN;September 27, 1988 
+70;105.0; 8-Bit Commando ;1 Hours ;2½ Hours ;4 Hours ;1½ Hours ;   PC ;NAN;   2DEngine ;NAN;July 09, 2011 ;NAN;NAN
+71;106.0; 8-Bit Night ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+72;107.0; 80 Days: Around the World Adventure ;8 Hours ;-- ;8½ Hours ;8½ Hours ;   PC ;   Adventure ;NAN;NAN;NAN;NAN;NAN
+73;108.0; 8Ball Allstars ;-- ;-- ;8 Hours ;8 Hours ;NAN;   Sports ;   Code Monkeys ;   Oxygen Games ;May 11, 2010 ;NAN;NAN
+74;109.0; 90 Minutes ;-- ;-- ;-- ;NAN;NAN;   Sports ;   Smilebit ;   Sega ;NAN;October 25, 2001 ;NAN
+75;110.0; 99 Levels to Hell ;7½ Hours ;13 Hours ;27½ Hours ;18½ Hours ;   PC ;NAN;   ZaxisGames ;NAN;February 26, 2013 ;NAN;NAN
+76;112.0; 99Seconds ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+77;114.0; 9:05 ;15 Mins ;17 Mins ;-- ;15 Mins ;   Browser, Mobile, PC ;NAN;   Adam Cadre ;NAN;February 10, 2000 ;NAN;NAN
+78;115.0; 9th Company: Roots of Terror ;4 Hours ;-- ;-- ;4 Hours ;   PC ;NAN;NAN;   Strategy First ;December 03, 2009 ;NAN;NAN
+79;116.0; 9th Dawn ;-- ;-- ;-- ;-- ;NAN;NAN;   Valorware ;NAN;NAN;NAN;NAN
+80;117.0; :the game: ;27 Mins ;-- ;28 Mins ;28 Mins ;   Browser ;NAN;NAN;NAN;NAN;NAN;NAN
+81;119.0; A Boy and His Blob ;10 Hours ;10½ Hours ;18 Hours ;13 Hours ;   PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii, Xbox One ;NAN;   WayForward Technologies ;   Majesco Games ;October 13, 2009 ;November 06, 2009 ;NAN
+82;120.0; A Boy and His Blob: Trouble on Blobolonia ;57 Mins ;2 Hours ;3 Hours ;2 Hours ;   NES ;NAN;   Imagineering ;NAN;January 1990 ;July 1991 ;November 29, 1990 
+83;121.0; A Bug's Life ;5½ Hours ;11 Hours ;12½ Hours ;9½ Hours ;   Nintendo 64, PC, PlayStation ;   Platform ;   Traveller's Tales ;   Disney Interactive ;November 18, 1998 ;November 06, 1998 ;NAN
+84;122.0; A Collection of Activision Classic Games for the Atari 2600 ;-- ;-- ;-- ;NAN;NAN;   Various ;   Learning Technologies Interactive ;   Activision ;September 30, 1998 ;NAN;NAN
+85;124.0; A Duck Has An Adventure ;5 Mins ;-- ;15 Mins ;15 Mins ;   Browser, PC ;   Adventure ;   E-merl ;NAN;NAN;NAN;NAN
+86;125.0; A Farewell to Dragons ;-- ;-- ;-- ;-- ;   PC ;NAN;NAN;   1C Company ;November 11, 2009 ;NAN;NAN
+87;126.0; A Flipping Good Time ;-- ;-- ;3½ Hours ;3½ Hours ;NAN;NAN;   DigiPen Institute of Technology ;   DigiPen Institute of Technology ;NAN;NAN;NAN
+88;128.0; A Game of Thrones: Genesis ;10 Hours ;23 Hours ;63 Hours ;15½ Hours ;   PC ;   Strategy ;   Cyanide ;   Focus Home Interactive ;September 29, 2011 ;September 29, 2011 ;NAN
+89;129.0; A Grain of Truth ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+90;130.0; A Hat in Time ;9 Hours ;14 Hours ;16½ Hours ;13 Hours ;   Nintendo Switch, PC, PlayStation 4, Xbox One ;NAN;   Gears for Breakfast ;NAN;October 05, 2017 ;October 05, 2017 ;NAN
+91;131.0; A Kingdom for Keflings ;5½ Hours ;17 Hours ;33½ Hours ;11½ Hours ;   PC, Xbox 360, Xbox One ;   Simulation ;   NinjaBee ;   Microsoft Game Studios ;November 19, 2008 ;NAN;NAN
+92;132.0; A Mind Forever Voyaging ;5½ Hours ;-- ;-- ;5½ Hours ;   PC ;NAN;   Infocom ;   Infocom ;August 14, 1985 ;NAN;NAN
+93;136.0; A Nightmare on Elm Street ;53 Mins ;2 Hours ;2½ Hours ;1½ Hours ;   NES ;   Platform ;   Rare ;   LJN ;October 1990 ;NAN;NAN
+94;138.0; A Stroke of Fate: Operation Valkyrie ;7 Hours ;8 Hours ;9 Hours ;8½ Hours ;   PC ;NAN;   SPLine ;   Akella ;February 13, 2009 ;NAN;NAN
+95;139.0; A Tale of Two Kingdoms ;-- ;-- ;-- ;-- ;   PC ;   Adventure ;   Crystal Shard ;   Crystal Shard ;July 15, 2007 ;NAN;NAN
+96;140.0; A Valley Without Wind ;13 Hours ;15½ Hours ;92 Hours ;18 Hours ;   PC ;NAN;   Arcen Games ;   Arcen Games ;April 23, 2012 ;NAN;NAN
+97;141.0; A Valley Without Wind 2 ;9½ Hours ;11 Hours ;-- ;9½ Hours ;   PC ;NAN;   Arcen Games ;   Arcen Games ;February 18, 2013 ;NAN;NAN
+98;142.0; A Vampyre Story ;7½ Hours ;7½ Hours ;10 Hours ;7½ Hours ;   PC ;   Adventure ;   Autumn Moon Entertainment ;NAN;December 02, 2008 ;November 21, 2008 ;NAN
+99;143.0; A Virus Named Tom ;4 Hours ;11 Hours ;27 Hours ;6 Hours ;   PC, PlayStation Vita ;NAN;   Misfits Attic ;   Misfits Attic ;August 01, 2012 ;NAN;NAN
+100;144.0; A Walk in the Dark ;4 Hours ;4 Hours ;13 Hours ;4½ Hours ;   PC, Xbox One ;   Platform ;   Flying Turtle Software ;NAN;November 07, 2013 ;November 07, 2013 ;NAN
+101;145.0; A Witch's Tale ;16 Hours ;17½ Hours ;22½ Hours ;18 Hours ;   Nintendo DS ;   Role-Playing ;   Hit Maker ;NAN;October 06, 2009 ;NAN;May 28, 2009 
+102;146.0; A World of Keflings ;7½ Hours ;10½ Hours ;14 Hours ;10 Hours ;   PC, Xbox 360, Xbox One ;   Simulation ;   NinjaBee ;   Microsoft Studios ;December 22, 2010 ;NAN;NAN
+103;148.0; A-Train ;-- ;-- ;-- ;-- ;NAN;   Simulation ;   Artdink ;   Maxis ; 1985 ;NAN;NAN
+104;150.0; A.R.C. Squadron ;3 Hours ;-- ;-- ;3 Hours ;NAN;NAN;   Psyonix Studios ;NAN;November 01, 2012 ;NAN;NAN
+105;152.0; A.R.E.S.: Extinction Agenda ;2 Hours ;3½ Hours ;9 Hours ;3 Hours ;   PC, Xbox 360 ;NAN;   Extend Studio ;   ORiGO GAMES ;January 19, 2011 ;January 19, 2011 ;NAN
+106;153.0; AaAaAA!!! - A Reckless Disregard for Gravity ;4½ Hours ;6 Hours ;12 Hours ;6 Hours ;   PC ;NAN;   Dejobaan Games ;NAN;September 03, 2009 ;NAN;NAN
+107;154.0; AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome ;3 Hours ;5½ Hours ;13 Hours ;5½ Hours ;   Mobile, PC ;NAN;   Dejobaan Games ;   Dejobaan Games ;November 24, 2011 ;November 24, 2011 ;NAN
+108;156.0; Abadox: The Deadly Inner War ;55 Mins ;55 Mins ;59 Mins ;57 Mins ;   NES ;   Shoot 'em up ;   Natsume ;NAN;March 1990 ;April 06, 1998 ;December 15, 1989 
+109;157.0; Abarenbou Princess ;-- ;-- ;-- ;-- ;NAN;   Role-Playing ;NAN;   Kadokawa Shoten ;NAN;NAN;November 29, 2001 
+110;158.0; ABBA You Can Dance ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+111;159.0; Abobo's Big Adventure ;1½ Hours ;2 Hours ;-- ;2 Hours ;   Browser, PC ;NAN;   I-Mockery ;NAN;January 11, 2012 ;NAN;NAN
+112;161.0; Abuse ;5½ Hours ;-- ;-- ;5½ Hours ;   PC ;NAN;   Crack dot Com ;NAN; 1996 ;NAN;NAN
+113;162.0; Quake Mission Pack: Abyss Of Pandemonium ;3 Hours ;-- ;-- ;3 Hours ;   PC ;NAN;NAN;   Perfect Publishing ;April 14, 1998 ;NAN;NAN
+114;163.0; Rock Band Track Pack: AC/DC Live ;4 Hours ;-- ;4 Hours ;4 Hours ;   PlayStation 2, PlayStation 3, Wii, Xbox 360 ;NAN;NAN;   MTV Games ;November 02, 2008 ;December 19, 2008 ;NAN
+115;164.0; Acceleration of Suguri ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+116;165.0; Ace Attorney Investigations: Miles Edgeworth ;23 Hours ;23½ Hours ;25 Hours ;23½ Hours ;   Mobile, Nintendo 3DS, Nintendo DS ;   Adventure ;   Capcom ;   Capcom ;February 16, 2010 ;February 19, 2010 ;May 28, 2009 
+117;166.0; Ace Combat 04: Shattered Skies ;4 Hours ;6½ Hours ;26 Hours ;5½ Hours ;   PlayStation 2 ;NAN;   Project Aces ;   Namco ;October 23, 2001 ;February 08, 2002 ;October 23, 2001 
+118;167.0; Ace Combat 2 ;3 Hours ;7 Hours ;15½ Hours ;4 Hours ;   PlayStation ;NAN;   Namco ;   Namco ;NAN;NAN;May 30, 1997 
+119;168.0; Ace Combat 3: Electrosphere ;4 Hours ;13 Hours ;25½ Hours ;6 Hours ;   PlayStation ;NAN;   Namco ;NAN;March 20, 2000 ;January 21, 2000 ;May 27, 1999 
+120;169.0; Ace Combat 5: The Unsung War ;7 Hours ;12½ Hours ;33½ Hours ;8½ Hours ;   PlayStation 2, PlayStation 4 ;NAN;   Project Aces ;NAN;October 25, 2004 ;February 18, 2005 ;October 21, 2004 
+121;170.0; Ace Combat 6: Fires of Liberation ;9 Hours ;16 Hours ;33½ Hours ;11 Hours ;   Xbox 360, Xbox One ;NAN;   Project Aces ;   Namco Bandai Games ;October 23, 2007 ;November 23, 2007 ;November 01, 2007 
+122;171.0; Ace Combat X: Skies of Deception ;4 Hours ;5½ Hours ;13½ Hours ;5 Hours ;   PlayStation Portable ;NAN;   Access Games ;NAN;October 24, 2006 ;November 08, 2006 ;October 26, 2006 
+123;172.0; Ace Combat Zero: The Belkan War ;4½ Hours ;7½ Hours ;20 Hours ;6 Hours ;   PlayStation 2 ;   Arcade ;   Project Aces ;   Namco Bandai ;April 25, 2006 ;September 15, 2006 ;March 23, 2006 
+124;173.0; Ace Combat: Assault Horizon ;8½ Hours ;13½ Hours ;77 Hours ;11 Hours ;   PC, PlayStation 3, Xbox 360 ;   Arcade ;   Project Aces ;   Namco Bandai Games ;October 11, 2011 ;October 14, 2011 ;October 13, 2011 
+125;175.0; Ace Combat: Assault Horizon Legacy ;4 Hours ;7½ Hours ;13½ Hours ;5½ Hours ;   Nintendo 3DS ;   Action ;   Project Aces ;   Namco Bandai Games ;November 15, 2011 ;December 02, 2011 ;January 12, 2012 
+126;177.0; Ace of Aces ;-- ;-- ;-- ;-- ;   Atari 7800 ;NAN;   Artech Digital Entertainment ;NAN; 1986 ;NAN;NAN
+127;178.0; Ace of Spades ;-- ;19 Hours ;NAN;NAN;   PC ;NAN;   Jagex Games Studio ;   Jagex Games Studio ;December 12, 2012 ;December 12, 2012 ;NAN
+128;179.0; Aces of the Pacific ;-- ;28 Hours ;-- ;28 Hours ;NAN;   Flight Simulation ;   Dynamix ;   Sierra Entertainment ; 1992 ;NAN;NAN
+129;180.0; Achievement Unlocked ;15 Mins ;23 Mins ;20 Mins ;21 Mins ;   Browser, PC ;NAN;   jmtb02 ;   Armor Games ;December 17, 2008 ;NAN;NAN
+130;181.0; Achron ;70 Hours ;-- ;-- ;70 Hours ;   PC ;NAN;   Hazardous Software ;   Hazardous Software ;August 29, 2011 ;NAN;NAN
+131;182.0; Achtung Panzer: Kharkov 1943 ;-- ;-- ;-- ;-- ;   PC ;NAN;   Graviteam ;   NA: Paradox Interactive. EU: Mamba Games ;February 25, 2010 ;April 14, 2010 ;NAN
+132;183.0; Acid Drop ;26 Mins ;-- ;-- ;26 Mins ;   Atari 2600 ;   Puzzle ;   Dennis Kiss ;   Salu ; 1992 ;NAN;NAN
+133;184.0; Acrophobia ;-- ;-- ;NAN;NAN;   PC ;   Trivia ;   Berkeley Systems ;   Berkeley Systems ;November 17, 1997 ;NAN;NAN
+134;185.0; Across Age DX ;-- ;-- ;-- ;-- ;NAN;   Role-Playing ;   FDG Entertainment ;   FDG Entertainment ;NAN;NAN;NAN
+135;187.0; Action Bass ;4 Hours ;-- ;-- ;4 Hours ;   PlayStation ;   Sports ;NAN;   Take-Two Interactive ;NAN;NAN;NAN
+136;188.0; Action Fighter ;1½ Hours ;-- ;-- ;1½ Hours ;   Sega Master System ;NAN;   Sega ;   Sega ; 1989 ; 1989 ; 1986 
+137;189.0; Action Man: Raid on Island X ;-- ;-- ;-- ;-- ;   PC ;   Action ;NAN;NAN;September 30, 2000 ;NAN;NAN
+138;190.0; Activision Hits Remixed ;-- ;-- ;-- ;NAN;NAN;   Compilation ;   Digital Eclipse ;   Activision ;November 08, 2006 ;NAN;NAN
+139;192.0; ActRaiser 2 ;3 Hours ;-- ;4 Hours ;4 Hours ;   Super Nintendo ;   Platform ;   Quintet ;NAN;November 1993 ; 1994 ;October 29, 1993 
+140;193.0; Actua Soccer ;-- ;-- ;-- ;NAN;   PC, PlayStation ;   Sports ;   Gremlin Interactive ;   Gremlin Interactive ; 1995 ;NAN;NAN
+141;194.0; Actua Soccer: Club Edition ;6 Hours ;-- ;-- ;NAN;   PlayStation ;   Sports ;   Gremlin Interactive ;   Gremlin Interactive ;NAN; 1996 ;NAN
+142;196.0; Actual Sunlight ;1 Hours ;1 Hours ;1½ Hours ;1½ Hours ;   PC, PlayStation Vita ;   Adventure ;   Will O'Neill ;   Will O'Neill ;April 03, 2014 ;NAN;NAN
+143;197.0; Adagio ;-- ;-- ;-- ;-- ;NAN;   Visual Novel ;   17 ;   17 ;August 19, 2006 ;NAN;August 20, 2004 
+144;201.0; Addams Family Values ;9 Hours ;-- ;-- ;9 Hours ;   Sega Mega Drive/Genesis ;NAN;   Ocean Software ;   Ocean Software ;February 1995 ;NAN;NAN
+145;203.0; Advance Guardian Heroes ;3 Hours ;-- ;-- ;3 Hours ;   Game Boy Advance ;   Fighting Action ;   Treasure ;NAN;September 14, 2004 ;NAN;September 22, 2004 
+146;204.0; Advance Wars ;14½ Hours ;21½ Hours ;32 Hours ;16 Hours ;   Game Boy Advance, Wii U ;   Turn-based tactics ;   Intelligent Systems ;   Nintendo ;September 10, 2001 ;January 11, 2002 ;November 25, 2004 
+147;205.0; Advance Wars 2: Black Hole Rising ;28 Hours ;38½ Hours ;104 Hours ;36 Hours ;   Game Boy Advance, Nintendo DS, Wii U ;   Turn-based tactics ;   Intelligent Systems ;   Nintendo ;June 23, 2003 ;October 03, 2003 ;November 25, 2004 
+148;206.0; Advance Wars: Days of Ruin ;20 Hours ;32½ Hours ;65 Hours ;25½ Hours ;   Nintendo 3DS, Nintendo DS ;NAN;   Intelligent Systems ;   Nintendo ;January 21, 2008 ;January 25, 2008 ;NAN
+149;207.0; Advance Wars: Dual Strike ;24½ Hours ;53½ Hours ;185 Hours ;40½ Hours ;   Nintendo 3DS, Nintendo DS ;NAN;   Intelligent Systems ;   Nintendo ;August 22, 2005 ;September 30, 2005 ;June 23, 2005 
+150;208.0; Advanced Dungeons & Dragons: Heroes of the Lance ;3 Hours ;3½ Hours ;4½ Hours ;4 Hours ;   NES, PC, Sega Master System ;   Role-Playing ;   U.S. Gold ;NAN; 1988 ; 1988 ;June 1990 
+151;209.0; Advanced Dungeons & Dragons: Slayer ;-- ;-- ;-- ;-- ;NAN;NAN;   Lion Entertainment ;   Strategic Designs ; 1994 ;NAN;January 20, 1995 
+152;210.0; Advent Rising ;8 Hours ;8 Hours ;9 Hours ;8 Hours ;   PC, Xbox ;NAN;NAN;   Majesco ;May 31, 2005 ;June 30, 2005 ;NAN
+153;211.0; Adventure (1979) ;15 Mins ;48 Mins ;50 Mins ;20 Mins ;   Atari 2600, Plug & Play ;NAN;   Atari ;   Atari ; 1979 ;NAN;NAN
+154;212.0; Adventure Apes and the Mayan Mystery ;-- ;-- ;-- ;-- ;   PC ;   Platform ;   ScaryPatato ;   ScaryPatato ; 2012 ;NAN;NAN
+155;213.0; Adventure Bar Story ;27½ Hours ;58 Hours ;70 Hours ;55 Hours ;   Mobile, Nintendo 3DS ;   Simulation ;   Rideon Japan ;"   Rideon Japan; CIRCLE Entertainment ";March 08, 2012 ;NAN;NAN
+156;214.0; Adventure Island ;2 Hours ;-- ;2½ Hours ;2 Hours ;   Game Boy, Game Boy Advance, MSX, Mobile, NES ;   Platform ;   Hudson Soft ;   Hudson Soft ;September 1988 ; 1992 ;September 12, 1986 
+157;215.0; Adventure Island II ;2½ Hours ;-- ;2½ Hours ;2½ Hours ;   Game Boy, NES ;   Platform ;   Hudson Soft ;   Hudson Soft ;February 1991 ;NAN;April 26, 1991 
+158;216.0; Adventure Island III ;1½ Hours ;-- ;2 Hours ;1½ Hours ;   NES ;NAN;   Hudson Soft ;   Hudson Soft ;September 1992 ;NAN;July 31, 1992 
+159;217.0; Adventure Island: The Beginning ;2 Hours ;-- ;-- ;2 Hours ;   Wii ;   Platform ;   Hudson Soft ;   Hudson Soft ;May 25, 2009 ;NAN;April 07, 2009 
+160;218.0; Adventure of TRON ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+161;219.0; Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! ;5 Hours ;5 Hours ;6½ Hours ;5 Hours ;   Nintendo 3DS, Nintendo DS ;   Adventure ;   WayForward Technologies ;   D3 Publisher ;November 20, 2012 ;NAN;NAN
+162;220.0; Adventures in the Magic Kingdom ;37 Mins ;42 Mins ;1½ Hours ;46 Mins ;   NES ;   Action ;   Capcom ;   Capcom ;June 1990 ;December 10, 1992 ;NAN
+163;221.0; Adventures of Bayou Billy ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+164;222.0; Adventures of Dino Riki ;1 Hours ;1 Hours ;1½ Hours ;1 Hours ;   NES ;   Third-Person Shooter ;   Hudson Soft ;NAN;September 1989 ;NAN;February 10, 1987 
+165;224.0; Adventures of Lolo 2 ;4½ Hours ;6 Hours ;8½ Hours ;6 Hours ;   NES, Wii ;   Puzzle ;   HAL Laboratory ;   HAL Laboratory ;April 20, 1990 ;NAN;January 06, 1990 
+166;225.0; Adventures of Lolo 3 ;12½ Hours ;-- ;21½ Hours ;18 Hours ;   NES ;   Platform ;   HAL Laboratory ;   HAL Laboratory ;November 21, 1991 ;May 27, 1992 ;December 26, 1990 
+167;226.0; Adventures of Lolo II ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+168;227.0; Adventures of Lolo III ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+169;228.0; Adventures of Rad Gravity ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+170;229.0; Adventures of Tron ;-- ;-- ;-- ;-- ;NAN;   Action ;   APh Technological Consulting ;   Mattel Electronics ; 1982 ;NAN;NAN
+171;230.0; Adventures To Go! ;-- ;-- ;-- ;-- ;NAN;NAN;   Solutions 2 Go ;   Natsume ;September 22, 2009 ;NAN;NAN
+172;231.0; Aedis Eclipse: Generation of Chaos ;-- ;25 Hours ;-- ;25 Hours ;   PlayStation Portable ;   Turn-based Strategy ;   Idea Factory ;NAN;April 24, 2007 ;March 30, 2011 ;May 25, 2006 
+173;232.0; Aegis Wing ;2 Hours ;5 Hours ;8 Hours ;4 Hours ;   Xbox 360 ;NAN;   Microsoft/Carbonated Games ;   Microsoft Game Studios ;May 16, 2007 ;May 16, 2007 ;NAN
+174;233.0; Aeon Avenger ;-- ;-- ;-- ;-- ;   Mobile ;   Role-Playing ;NAN;   Kemco ; 2013 ;NAN;NAN
+175;234.0; Aeon Command ;2½ Hours ;5½ Hours ;9 Hours ;5½ Hours ;   PC ;   Strategy ;   Bat Country Games ;   Bat Country Games ;July 03, 2014 ;July 03, 2014 ;July 03, 2014 
+176;235.0; Aeon Flux ;8 Hours ;15½ Hours ;-- ;10 Hours ;   PlayStation 2, Xbox ;NAN;   Terminal Reality ;   Majesco Games ;November 17, 2005 ;NAN;NAN
+177;236.0; Aero Fighters ;49 Mins ;54 Mins ;1 Hours ;55 Mins ;   Arcade, Super Nintendo ;   Shooter ;   Video System ;NAN; 1992 ; 1992 ; 1992 
+178;237.0; Aero Fighters 2 ;47 Mins ;48 Mins ;1½ Hours ;51 Mins ;   Arcade, Neo Geo, Neo Geo CD, Nintendo Switch, Super Nintendo ;   Shooter ;   Video System ;   Video System ;August 26, 1994 ;August 26, 1994 ;August 26, 1994 
+179;238.0; Aero Fighters 3 ;46 Mins ;50 Mins ;1 Hours ;48 Mins ;   Arcade, Neo Geo, Nintendo Switch ;NAN;   Video System ;   Video System ;October 12, 1995 ;NAN;NAN
+180;239.0; Aero Fighters Assault ;4 Hours ;-- ;22 Hours ;13 Hours ;   Nintendo 64 ;NAN;   Paradigm Entertainment ;   Video System ;November 01, 1997 ;April 15, 1998 ;NAN
+181;240.0; Aero Gauge ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+182;241.0; Aero Porter ;4½ Hours ;-- ;-- ;4½ Hours ;   Nintendo 3DS ;   Puzzle ;NAN;   Level-5 ;November 29, 2012 ;November 29, 2012 ;May 31, 2012 
+183;242.0; Aero the Acro-Bat ;4 Hours ;-- ;4 Hours ;4 Hours ;   Game Boy Advance, Sega Mega Drive/Genesis, Super Nintendo ;   Platform ;NAN;NAN;October 1993 ; 1993 ;December 20, 2002 
+184;243.0; Aero the Acro-Bat 2 ;4½ Hours ;-- ;4½ Hours ;4½ Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;   Platform ;   Iguana Entertainment ;   Sunsoft ;November 1994 ;August 1994 ;NAN
+185;244.0; Aerobiz ;-- ;-- ;-- ;-- ;   Super Nintendo ;NAN;   KOEI Co. ;   KOEI Co. ; 1992 ;NAN;NAN
+186;245.0; Aerobiz Supersonic ;4 Hours ;-- ;-- ;4 Hours ;   Super Nintendo ;   Simulation ;   Koei ;   Koei ;August 1994 ;NAN;NAN
+187;247.0; Aether ;46 Mins ;50 Mins ;1½ Hours ;57 Mins ;   Browser, PC ;   Adventure ;NAN;   Edmund McMillen ;NAN;NAN;NAN
+188;248.0; Afraid of Monsters ;2 Hours ;2½ Hours ;4 Hours ;2½ Hours ;   PC ;   Survival Horror ;NAN;NAN;NAN;NAN;NAN
+189;249.0; Afrika ;20½ Hours ;24 Hours ;28 Hours ;24½ Hours ;   PlayStation 3 ;   Simulation ;   Rhino Studios ;   Natsume ;October 06, 2009 ;NAN;August 28, 2008 
+190;250.0; Afro Samurai ;7 Hours ;8 Hours ;10 Hours ;7½ Hours ;   PlayStation 3, Xbox 360 ;   Action ;   Namco Bandai Games ;   Surge ;January 27, 2009 ;March 27, 2009 ;NAN
+191;251.0; After Armageddon Gaiden ;-- ;-- ;-- ;-- ;NAN;NAN;   Pandora Box ;   Sega ;NAN;NAN;November 11, 1994 
+192;252.0; After Burner ;35 Mins ;-- ;2 Hours ;44 Mins ;   Arcade, Sega 32X, Sega Master System, Sega Mega Drive/Genesis ;NAN;   Sega AM-2 ;   Sega ;November 1987 ;November 1987 ;NAN
+193;253.0; After Burner Climax ;15 Mins ;3 Hours ;6½ Hours ;3½ Hours ;   Arcade, PlayStation 3, Xbox 360 ;   Arcade/Shoot 'em up ;   Sega-AM2 ;   Sega ;April 21, 2010 ;April 21, 2010 ;April 21, 2010 
+194;254.0; After Burner II ;30 Mins ;1½ Hours ;2½ Hours ;52 Mins ;   Arcade, NES, Nintendo 3DS, Sega Mega Drive/Genesis ;NAN;   Sega-AM2 ;   Sega ; 1987 ; 1987 ;October 1987 
+195;255.0; After Burner III ;15 Mins ;22 Mins ;2½ Hours ;42 Mins ;   Arcade, FM Towns, Sega CD ;NAN;   Sega ;NAN; 1992 ; 1992 ; 1991 
+196;256.0; Afterfall: InSanity ;6½ Hours ;8½ Hours ;18 Hours ;8 Hours ;   PC ;NAN;   Intoxicate Studios ;   Nicolas Entertainment Group ;November 25, 2011 ;NAN;NAN
+197;257.0; Again: Interactive Crime Novel ;10½ Hours ;10½ Hours ;10½ Hours ;10½ Hours ;   Nintendo DS ;   Adventure ;   Cing ;   Tecmo ;April 02, 2010 ;NAN;December 10, 2009 
+198;258.0; Agarest War: Zero ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+199;260.0; Agatha Christie: And Then There Were None ;7 Hours ;7 Hours ;9½ Hours ;7½ Hours ;   PC, Wii ;   Adventure ;   AWE Productions ;   The Adventure Company ;October 27, 2005 ;February 10, 2006 ;NAN
+200;261.0; Agatha Christie: Evil Under the Sun ;9 Hours ;-- ;10½ Hours ;9½ Hours ;   PC, Wii ;   Adventure ;   AWE Productions ;   The Adventure Company ;October 16, 2007 ;November 23, 2007 ;NAN
+201;262.0; Agatha Christie: Murder on the Orient Express ;7½ Hours ;10 Hours ;10 Hours ;8½ Hours ;   PC ;   Adventure ;   AWE Productions ;   The Adventure Company ;November 14, 2006 ;March 09, 2007 ;NAN
+202;263.0; Agatha Christie: The ABC Murders (2009) ;4½ Hours ;5 Hours ;-- ;5 Hours ;   Mobile, Nintendo DS ;   Adventure ;NAN;   DreamCatcher Interactive ;November 12, 2009 ;NAN;NAN
+203;264.0; Age of Booty ;-- ;8 Hours ;13 Hours ;12½ Hours ;   PC, PlayStation 3, Xbox 360 ;NAN;   Certain Affinity ;   Capcom ;October 15, 2008 ;October 15, 2008 ;NAN
+204;265.0; Age of Conan: Unchained ;-- ;-- ;NAN;NAN;   PC ;NAN;   Funcom ;   Funcom ;May 20, 2008 ;May 23, 2008 ;NAN
+205;266.0; Age of Empires ;20½ Hours ;32½ Hours ;43 Hours ;27 Hours ;   PC ;   Real-time strategy ;   Ensemble Studios ;   Microsoft Game Studios ;October 15, 1997 ;February 02, 1998 ;NAN
+206;267.0; Age of Empires II: Gold Edition ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+207;268.0; Age of Empires II: The Age of Kings ;41 Hours ;60 Hours ;68 Hours ;50 Hours ;   PC, PlayStation 2 ;   Real-time strategy ;   Ensemble Studios ;NAN;September 30, 1999 ;September 30, 1999 ;NAN
+208;269.0; Age of Empires II: The Conquerors ;38 Hours ;64½ Hours ;89½ Hours ;55 Hours ;   PC ;   Real-time strategy ;   Ensemble Studios ;NAN;August 24, 2000 ;August 24, 2000 ;NAN
+209;270.0; Age of Empires III ;15 Hours ;18½ Hours ;33 Hours ;18 Hours ;   PC ;   Real-time strategy ;NAN;NAN;October 18, 2005 ;November 04, 2005 ;NAN
+210;271.0; Age of Empires III: The Asian Dynasties ;9 Hours ;12½ Hours ;35 Hours ;11½ Hours ;   PC ;   Real-time strategy ;NAN;NAN;October 23, 2007 ;November 02, 2007 ;NAN
+211;272.0; Age of Empires III: The WarChiefs ;8 Hours ;10½ Hours ;35 Hours ;10 Hours ;   PC ;   Real-time strategy ;NAN;NAN;October 17, 2006 ;October 20, 2006 ;NAN
+212;273.0; Age of Empires: Mythologies ;20 Hours ;20½ Hours ;20½ Hours ;20 Hours ;   Nintendo DS, PC ;   Turn-based strategy ;   Griptonite Games ;   THQ ;November 24, 2008 ;NAN;NAN
+213;274.0; Age of Empires: The Age of Kings ;15½ Hours ;29½ Hours ;40 Hours ;25 Hours ;   Nintendo DS, PC ;NAN;   Backbone Entertainment ;   Majesco ;February 14, 2006 ;November 10, 2006 ;NAN
+214;275.0; Age of Empires: The Rise of Rome ;22½ Hours ;35 Hours ;36 Hours ;28 Hours ;   PC ;   Real-time strategy ;   Ensemble Studios ;   Microsoft Game Studios ;October 31, 1998 ;NAN;NAN
+215;276.0; Age of Fear: The Undead King ;12 Hours ;-- ;15 Hours ;13 Hours ;   PC ;   Strategy ;NAN;NAN;April 10, 2011 ;NAN;NAN
+216;277.0; Age of Mythology ;16 Hours ;20 Hours ;24 Hours ;18½ Hours ;   PC ;   Real-time strategy ;   Ensemble Studios ;NAN;October 30, 2002 ;November 11, 2002 ;NAN
+217;278.0; Age of Mythology: The Titans ;9½ Hours ;18 Hours ;19½ Hours ;12 Hours ;   PC ;NAN;   Ensemble Studios ;   Microsoft Game Studios ;September 30, 2003 ;October 29, 2003 ;NAN
+218;279.0; Age of Pirates - Caribean Tales ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+219;282.0; Age of Wonders II: The Wizard's Throne ;51½ Hours ;58 Hours ;111 Hours ;68 Hours ;   PC ;NAN;   Triumph Studios ;   Take 2 ;June 12, 2002 ;NAN;NAN
+220;283.0; Age of Wonders: Shadow Magic ;30½ Hours ;64 Hours ;85½ Hours ;52½ Hours ;   PC ;   Turn-Based Strategy ;   Triumph Studios ;   Gathering of Developers ; 2003 ;NAN;NAN
+221;284.0; Age of Zombies ;2 Hours ;-- ;2 Hours ;2 Hours ;   Mobile, PlayStation 3, PlayStation Vita, PlayStation Portable ;   Action ;   Halfbrick ;   Halfbrick ;February 25, 2010 ;February 25, 2010 ;NAN
+222;285.0; Aggressive Inline ;6 Hours ;-- ;30 Hours ;10 Hours ;   Game Boy Advance, Nintendo GameCube, PlayStation 2, Xbox ;   Sports ;NAN;   Acclaim Entertainment ;May 28, 2002 ;NAN;NAN
+223;286.0; Agressive Inline ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+224;288.0; AI War: Fleet Command ;16 Hours ;186 Hours ;-- ;39½ Hours ;   PC ;   Real-time strategy ;   Arcen Games ;   Arcen Games ;June 02, 2009 ;NAN;NAN
+225;289.0; Aidyn Chronicles: The First Mage ;-- ;60½ Hours ;-- ;60½ Hours ;   Nintendo 64 ;   Role-playing ;   H2O Interactive ;   THQ ;March 14, 2001 ;August 03, 2001 ;NAN
+226;290.0; Aion ;76 Hours ;400 Hours ;2713 Hours ;NAN;   PC ;NAN;   Aion Team Development Dept ;   NCSoft ;September 22, 2009 ;NAN;July 17, 2009 
+227;291.0; Air Aces: Pacific ;12 Hours ;-- ;-- ;12 Hours ;NAN;NAN;   Wastelands Interactive ;   Wastelands Interactive ;NAN;NAN;NAN
+228;292.0; Air Buster ;1 Hours ;-- ;-- ;1 Hours ;   Sega Mega Drive/Genesis, TurboGrafx-16 ;NAN;   Kaneko ;   Kaneko ; 1991 ;NAN;January 1990 
+229;293.0; Air Combat ;2½ Hours ;3 Hours ;4 Hours ;3 Hours ;   PlayStation ;   Arcade ;   Namco ;   Namco ;September 09, 1995 ;NAN;June 30, 1995 
+230;295.0; Air Conflicts: Secret Wars ;8 Hours ;8½ Hours ;9 Hours ;8 Hours ;   Nintendo Switch, PC, PlayStation 3, Xbox 360 ;   Action ;   Games Farm ;   bitComposer Games ;July 08, 2011 ;NAN;NAN
+231;296.0; Air Forte ;24 Mins ;1½ Hours ;2½ Hours ;34 Mins ;   PC ;NAN;   Blendo Games ;NAN; 2010 ;NAN;NAN
+232;297.0; Air Fortress ;1 Hours ;13 Hours ;16½ Hours ;11½ Hours ;   NES ;   Platform ;   HAL Laboratory ;   HAL Laboratory ; 1989 ;NAN; 1987 
+233;298.0; Air Raiders ;-- ;-- ;-- ;-- ;   Atari 2600 ;NAN;NAN;   Mattel ; 1982 ;NAN;NAN
+234;299.0; AirBlade ;38 Mins ;-- ;2 Hours ;54 Mins ;   PlayStation 2 ;   Sports ;   Criterion Games ;   Namco ;January 28, 2002 ;November 09, 2001 ;NAN
+235;300.0; Airborne Assault: Red Devils Over Arnhem ;-- ;-- ;-- ;-- ;NAN;   Strategy ;   Panther Games ;   Battlefront.com ;NAN;NAN;NAN
+236;301.0; AirBuccaneers ;-- ;-- ;-- ;-- ;   PC ;   Action ;   LudoCraft ;   LudoCraft ;December 05, 2012 ;NAN;NAN
+237;302.0; AirForce Delta ;10 Hours ;12 Hours ;14 Hours ;12 Hours ;   Dreamcast, Game Boy Color ;NAN;   Climax Group ;   Konami Corporation ;September 09, 1999 ;NAN;NAN
+238;303.0; AirForce Delta Storm ;4 Hours ;-- ;-- ;4 Hours ;   Game Boy Advance, Xbox ;NAN;   Konami ;   Konami ;November 15, 2001 ;April 12, 2002 ;February 22, 2002 
+239;305.0; AirMech ;-- ;-- ;-- ;-- ;   PC ;NAN;   Carbon Games ;   Carbon Games ;April 2012 ;NAN;NAN
+240;306.0; Airwolf ;-- ;-- ;2 Hours ;2 Hours ;   Commodore 64, NES ;   Action ;   Elite ;NAN;NAN;NAN;NAN
+241;308.0; Akai Katana ;40 Mins ;-- ;-- ;40 Mins ;   Arcade, Xbox 360 ;NAN;   Cave ;   Cave ;May 15, 2012 ;NAN;May 26, 2011 
+242;309.0; Akalabeth: World of Doom ;2½ Hours ;3½ Hours ;11 Hours ;3½ Hours ;   Apple II, PC ;NAN;   Richard Garriott ;NAN; 1979 ;June 28, 2010 ;June 28, 2010 
+243;310.0; Akane the Kunoichi ;2 Hours ;3 Hours ;4 Hours ;3½ Hours ;   Mobile, PC, Xbox 360 ;NAN;   Haruneko Entertainment ;   Haruneko Entertainment ;May 02, 2014 ;May 02, 2014 ;NAN
+244;311.0; Akazukin Chacha ;-- ;-- ;-- ;-- ;NAN;   Role-Playing ;NAN;   Tomy ;NAN;NAN; 1995 
+245;313.0; Akira Psycho Ball ;1½ Hours ;-- ;-- ;1½ Hours ;   PlayStation 2 ;   Pinball ;   KAZe ;   Bandai ;NAN; 2003 ;February 21, 2002 
+246;314.0; Akuma: Demon Spawn ;-- ;-- ;-- ;-- ;NAN;   Role-Playing ;NAN;NAN; 1999 ;NAN;NAN
+247;315.0; Al Emmo and the Lost Dutchman's Mine ;6 Hours ;10 Hours ;12½ Hours ;8 Hours ;   PC ;NAN;   Himalaya Studios ;   Himalaya Studios ;September 05, 2006 ;NAN;NAN
+248;316.0; Al Unser Jr. Turbo Racing ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+249;317.0; Al Unser Jr.'s Turbo Racing ;-- ;-- ;2 Hours ;2 Hours ;   NES ;   Racing ;   Data East ;   Data East ;March 1990 ; 1991 ;January 31, 1989 
+250;318.0; Al-Qadim: The Genie's Curse ;-- ;13½ Hours ;-- ;13½ Hours ;   PC ;   Action RPG ;   Cyberlore Studios ;   Strategic Simulations Inc. ; 1994 ; 1994 ;NAN
+251;319.0; Alan Wake ;11 Hours ;14½ Hours ;26 Hours ;13 Hours ;   PC, Xbox 360 ;NAN;   Remedy Entertainment ;   Microsoft Game Studios ;May 18, 2010 ;May 14, 2010 ;NAN
+252;320.0; Alan Wake's American Nightmare ;3½ Hours ;4½ Hours ;8 Hours ;4 Hours ;   PC, PlayStation 3, Xbox 360 ;NAN;   Remedy Entertainment ;   Microsoft Studios ;February 22, 2012 ;February 22, 2012 ;NAN
+253;321.0; Alan Wake: The Signal DLC ;1½ Hours ;1½ Hours ;2 Hours ;1½ Hours ;   PC, PlayStation 5, Xbox 360 ;NAN;   Remedy Entertainment ;   Microsoft Game Studios ;July 27, 2010 ;July 27, 2010 ;NAN
+254;322.0; Alan Wake: The Writer DLC ;1½ Hours ;1½ Hours ;2½ Hours ;1½ Hours ;   PC, PlayStation 5, Xbox 360 ;NAN;   Remedy Entertainment ;   Microsoft Game Studios ;October 12, 2010 ;October 12, 2010 ;NAN
+255;323.0; Albert Odyssey: Legend of Eldean ;26 Hours ;32 Hours ;45½ Hours ;32 Hours ;   Sega Saturn ;   Role-Playing ;   Sunsoft ;NAN;July 24, 1997 ;NAN;August 09, 1996 
+256;324.0; Albion ;32 Hours ;34½ Hours ;48½ Hours ;35 Hours ;   PC ;NAN;   Blue Byte Software ;   Blue Byte Software ;August 31, 1996 ;NAN;NAN
+257;325.0; Alcahest ;5½ Hours ;7½ Hours ;-- ;6 Hours ;   Super Nintendo ;   Action role-playing game ;   HAL Laboratory ;   Square ;NAN;NAN;December 17, 1993 
+258;326.0; Alchemy (2001) ;-- ;-- ;-- ;-- ;NAN;   Puzzle ;   PopCap Games ;   PopCap Games ;August 29, 2001 ;NAN;NAN
+259;327.0; Aldynes ;3 Hours ;-- ;-- ;3 Hours ;   PlayStation Portable ;NAN;   Produce ;   Hudson Soft ;February 22, 1991 ;NAN; 1991 
+260;329.0; Alex Kidd in Miracle World ;2 Hours ;2½ Hours ;3 Hours ;2 Hours ;   Nintendo Switch, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Sega Master System, Xbox 360, Xbox One, Xbox Series X/S ;   Platform ;   Sega ;NAN;December 1986 ; 1987 ;November 01, 1986 
+261;330.0; Alex Kidd in Shinobi World ;44 Mins ;46 Mins ;54 Mins ;45 Mins ;   Sega Master System ;   Platform ;   Sega ;   Sega ; 1990 ; 1990 ;NAN
+262;331.0; Alex Kidd in the Enchanted Castle ;1½ Hours ;2 Hours ;2½ Hours ;1½ Hours ;   Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Portable, Sega Mega Drive/Genesis, Xbox One ;   Platform ;   Sega ;   Sega ;August 20, 1989 ;November 30, 1990 ;February 10, 1989 
+263;332.0; Alex Kidd: High-Tech World ;1½ Hours ;1½ Hours ;-- ;1½ Hours ;   Sega Master System ;NAN;   Sega ;   Sega ;June 1989 ; 1989 ;July 19, 1987 
+264;333.0; Alex Kidd: The Lost Stars ;1 Hours ;1½ Hours ;1½ Hours ;1 Hours ;   Arcade, Sega Master System ;   Platform ;   Sega ;   Sega ;July 1988 ; 1988 ; 1986 
+265;334.0; Alex Rider: Stormbreaker ;2 Hours ;-- ;6½ Hours ;2½ Hours ;   Game Boy Advance, Nintendo DS ;   Third-Person Action Adventure ;NAN;   THQ ;July 07, 2006 ;NAN;NAN
+266;335.0; Alexander ;-- ;15 Hours ;-- ;15 Hours ;   PC ;NAN;   GSC Game World ;   Ubisoft ;November 23, 2004 ;NAN;NAN
+267;336.0; ALF: The First Adventure ;-- ;-- ;-- ;-- ;NAN;   Action ;   Box Office ;   Box Office ; 1987 ;NAN;NAN
+268;337.0; Alfred Chicken ;3 Hours ;-- ;3 Hours ;3 Hours ;   Game Boy, NES, Super Nintendo ;   Platform ;NAN;NAN;February 1994 ; 1993 ;NAN
+269;338.0; Alias (2004) ;18 Hours ;-- ;-- ;18 Hours ;   PC, PlayStation 2, Xbox ;NAN;   Acclaim Cheltenham ;   Acclaim Entertainment ;April 05, 2004 ;April 08, 2004 ;NAN
+270;340.0; Alice: Madness Returns ;14 Hours ;16 Hours ;22½ Hours ;15½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   Spicy Horse ;   Electronic Arts ;June 14, 2011 ;June 16, 2011 ;NAN
+271;341.0; Alida ;-- ;-- ;-- ;-- ;NAN;   Adventure ;   Dejavu Worlds ;   Magnussoft Deutschland ; 2004 ;NAN;NAN
+272;342.0; Alien (1982) ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+273;343.0; Alien 3 ;3 Hours ;3½ Hours ;3½ Hours ;3½ Hours ;   Game Boy, NES, Sega Master System, Sega Mega Drive/Genesis, Super Nintendo ;   Action ;NAN;NAN; 1992 ;NAN;NAN
+274;344.0; Alien 3: The Gun ;30 Mins ;-- ;-- ;30 Mins ;   Arcade ;NAN;   Sega ;   Sega ; 1993 ;NAN;NAN
+275;345.0; Alien Breed ;5 Hours ;-- ;-- ;NAN;   Amiga, PC, PlayStation Vita ;NAN;   Team17 ;NAN; 1991 ;NAN;NAN
+276;348.0; Alien Breed: Impact ;5½ Hours ;6½ Hours ;9 Hours ;6 Hours ;   PC, PlayStation 3, Xbox 360 ;NAN;   Team 17 ;NAN;June 03, 2010 ;June 03, 2010 ;NAN
+277;349.0; Alien Brigade ;15 Mins ;-- ;-- ;15 Mins ;   Atari 7800 ;   Shooter ;   Ken Grant ;   Atari ; 1990 ;NAN;NAN
+278;350.0; Alien Crush ;2 Hours ;38 Hours ;-- ;4 Hours ;   Arcade, TurboGrafx-16 ;NAN;NAN;NAN;August 29, 1989 ;December 15, 2006 ;September 14, 1988 
+279;351.0; Alien Crush Returns ;1½ Hours ;-- ;-- ;1½ Hours ;   Wii ;   Pinball ;   Tamsoft ;   Hudson Soft ;November 03, 2008 ;NAN;NAN
+280;352.0; Alien Front Online ;-- ;-- ;-- ;-- ;   Dreamcast ;   Action ;   WOW Entertainment ;   Sega ;August 09, 2001 ;NAN;NAN
+281;353.0; Alien Hallway ;2 Hours ;3 Hours ;5 Hours ;3 Hours ;   PC ;NAN;   Sigma Team Inc. ;   Sigma Team Inc. ;August 19, 2011 ;August 19, 2011 ;NAN
+282;354.0; Alien Hominid ;2½ Hours ;-- ;12 Hours ;3 Hours ;   Game Boy Advance, Nintendo DS, Nintendo GameCube, PC, PlayStation 2, Xbox, Xbox 360 ;   Run and Gun ;NAN;NAN;November 18, 2004 ;May 2005 ;NAN
+283;355.0; Alien Hominid HD ;5 Hours ;6 Hours ;7 Hours ;5½ Hours ;   Xbox 360, Xbox One ;   Run and gun ;   The Behemoth ;NAN;February 28, 2007 ;February 28, 2007 ;February 28, 2007 
+284;356.0; Alien Incident ;7½ Hours ;-- ;-- ;7½ Hours ;   PC ;   Adventure ;   Housemarque ;   GameTek ; 1996 ;NAN;NAN
+285;357.0; Alien Infestation ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+286;358.0; Alien Nations ;15 Hours ;30 Hours ;-- ;27½ Hours ;   PC ;NAN;   Neo Software Produktions ;   Nordic Games ;July 1999 ;NAN;NAN
+287;359.0; Alien Resurrection ;6½ Hours ;7½ Hours ;-- ;7 Hours ;   PlayStation ;   Action ;   Argonaut Games ;   Fox Interactive ;October 10, 2000 ;December 01, 2000 ;NAN
+288;360.0; Alien Shooter ;2 Hours ;3 Hours ;5 Hours ;3 Hours ;   PC ;NAN;   Sigma Team ;   Sigma Team ;September 14, 2003 ;NAN;NAN
+289;361.0; Alien Shooter 2: Conscription ;2 Hours ;3 Hours ;4½ Hours ;2½ Hours ;   PC ;   Shooter ;   Sigma Team ;   Sigma Team ;May 12, 2012 ;NAN;NAN
+290;362.0; Alien Shooter 2: Reloaded ;5 Hours ;6 Hours ;6½ Hours ;5½ Hours ;   PC ;NAN;   Sigma Team ;   Sigma Team ;March 14, 2009 ;March 14, 2009 ;NAN
+291;363.0; Alien Shooter: Revisited ;2 Hours ;2 Hours ;2½ Hours ;2 Hours ;   PC ;NAN;   Sigma Team ;   Sigma Team ;NAN;NAN;NAN
+292;364.0; Alien Shooter: Vengeance ;5½ Hours ;6 Hours ;9 Hours ;6 Hours ;   PC ;   Arcade ;   Sigma Team ;   Sigma Team ;February 16, 2007 ;NAN;NAN
+293;365.0; Alien Soldier ;2½ Hours ;6 Hours ;6½ Hours ;3½ Hours ;   PC, Sega Mega Drive/Genesis ;NAN;   Treasure ;   Sega ;NAN;June 1995 ;February 24, 1995 
+294;367.0; Alien Storm ;49 Mins ;2½ Hours ;2½ Hours ;1 Hours ;   Arcade, Nintendo Switch, PC, PlayStation 4, Sega Master System, Sega Mega Drive/Genesis, Xbox One ;NAN;   Sega ;   Sega ; 1991 ; 1991 ;May 1990 
+295;368.0; Alien Swarm ;3½ Hours ;7 Hours ;15 Hours ;5 Hours ;   PC ;NAN;   Valve Corporation ;   Valve Corporation ;July 19, 2010 ;July 19, 2010 ;NAN
+296;369.0; Alien Syndrome ;2 Hours ;-- ;2½ Hours ;2 Hours ;   Arcade, NES, Sega Master System ;NAN;   Sega ;   Sega ; 1987 ; 1987 ; 1987 
+297;370.0; Alien Syndrome (2007) ;12 Hours ;25½ Hours ;-- ;14 Hours ;   PlayStation Portable ;NAN;   Totally Games ;   Sega ;July 24, 2007 ;September 07, 2007 ;NAN
+298;371.0; Alien Trilogy ;7 Hours ;7 Hours ;-- ;7 Hours ;   PC, PlayStation, Sega Saturn ;   First-Person Shooter ;NAN;NAN;December 31, 1995 ; 1996 ; 1996 
+299;372.0; Alien Versus Predator Gold Edition ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+300;373.0; Alien vs. Predator (Arcade) ;1 Hours ;-- ;-- ;1 Hours ;   Arcade, ;   Beat 'em Up ;   Capcom ;   Capcom ;May 20, 1994 ;NAN;NAN
+301;374.0; Alien vs Predator (Jaguar) ;12½ Hours ;-- ;17½ Hours ;14 Hours ;   Atari Jaguar ;NAN;   Rebellion ;   Atari Corporation ;October 20, 1994 ;September 1994 ;December 08, 1994 
+302;375.0; Alien vs. Predator (SNES) ;2 Hours ;5 Hours ;6 Hours ;3½ Hours ;   Super Nintendo ;   Action ;   Information Global Service ;   Activision ;September 1993 ;NAN;January 08, 1993 
+303;376.0; Alien Zombie Megadeath ;4 Hours ;8 Hours ;19 Hours ;14 Hours ;   PC ;   Action ;   Pom Pom Games ;   Pom Pom Games ;October 18, 2011 ;NAN;NAN
+304;377.0; Aliens (Arcade) ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+305;378.0; Aliens versus Predator 2 ;9½ Hours ;12½ Hours ;17½ Hours ;10½ Hours ;   PC ;NAN;NAN;NAN;October 30, 2001 ;NAN;NAN
+306;379.0; Aliens Versus Predator Classic 2000 ;6 Hours ;12 Hours ;20½ Hours ;8 Hours ;   PC ;NAN;   Rebellion ;   Fox Interactive ;January 15, 2010 ;January 15, 2010 ;NAN
+307;381.0; Aliens vs. Predator (2010) ;8½ Hours ;12 Hours ;25 Hours ;9½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   Rebellion Developments ;   Sega ;February 16, 2010 ;February 19, 2010 ;NAN
+308;383.0; Aliens: Infestation ;6 Hours ;6 Hours ;6½ Hours ;6 Hours ;   Nintendo 3DS, Nintendo DS ;   Action ;NAN;   Sega ;October 11, 2011 ;NAN;NAN
+309;384.0; Alisia Dragoon ;2 Hours ;2 Hours ;4 Hours ;2 Hours ;   Sega Mega Drive/Genesis ;   Platform ;NAN;NAN;March 30, 1992 ; 1992 ;April 24, 1992 
+310;386.0; All That Matters ;34 Mins ;36 Mins ;-- ;35 Mins ;   Browser ;NAN;NAN;NAN;NAN;NAN;NAN
+311;388.0; All Zombies Must Die!: Scorepocalypse ;-- ;-- ;-- ;-- ;   PC ;   Shooter ;   Doublesix Games ;   Doublesix Games ;April 19, 2012 ;NAN;NAN
+312;390.0; All-Star Slammin' D-Ball ;25 Mins ;-- ;-- ;25 Mins ;   PlayStation ;NAN;   Agetec ;   Agetec ; 2002 ; 2002 ;NAN
+313;391.0; Alleyway ;2½ Hours ;-- ;2½ Hours ;2½ Hours ;   Game Boy, Nintendo 3DS ;   Action ;NAN;   Nintendo ;August 11, 1989 ;September 28, 1990 ;April 21, 1989 
+314;392.0; Allied General ;-- ;-- ;-- ;-- ;   PlayStation ;NAN;   Strategic Simulations ;NAN; 1995 ;NAN;NAN
+315;393.0; Alone in the Dark (1992) ;5 Hours ;5½ Hours ;9½ Hours ;5½ Hours ;   3DO, FM Towns, Mac, Mobile, NEC PC-98, PC ;NAN;NAN;NAN; 1992 ; 1992 ; 1993 
+316;394.0; Alone in the Dark (2008) ;9½ Hours ;12 Hours ;14½ Hours ;11 Hours ;   PC, PlayStation 2, PlayStation 3, Wii, Xbox 360 ;NAN;   Eden Games ;   Atari ;June 23, 2008 ;June 20, 2008 ;NAN
+317;395.0; Alone in the Dark 2 ;5½ Hours ;6½ Hours ;7½ Hours ;6 Hours ;   3DO, FM Towns, Mac, NEC PC-98, PC, PlayStation, Sega Saturn ;NAN;   Infogrames ;   Infogrames ;September 25, 1994 ; 1993 ;December 1994 
+318;396.0; Alone in the Dark 3 ;4½ Hours ;7 Hours ;8½ Hours ;6½ Hours ;   PC ;   Survival horror ;   Infogrames ;NAN;March 16, 1995 ; 1994 ;NAN
+319;397.0; Alone in the Dark: The New Nightmare ;8 Hours ;8 Hours ;14 Hours ;9 Hours ;   Dreamcast, Game Boy Color, PC, PlayStation, PlayStation 2 ;NAN;NAN;   Infogrames ;June 18, 2001 ;May 18, 2001 ;NAN
+320;398.0; Alpha Mission ;55 Mins ;1 Hours ;2 Hours ;1 Hours ;   NES ;   Scrolling Shooter ;   SNK ;   SNK ; 1985 ;NAN;NAN
+321;399.0; Alpha Mission II ;52 Mins ;-- ;-- ;52 Mins ;   Arcade, Neo Geo ;   Shooter ;   SNK ;   SNK ;NAN;NAN; 1991 
+322;400.0; Alpha Prime ;5 Hours ;6 Hours ;6½ Hours ;5½ Hours ;   PC ;NAN;   Black Element Software ;NAN;November 08, 2007 ;May 27, 2007 ;NAN
+323;402.0; Alpha Waves ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+324;403.0; Alphabet Connection ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+325;404.0; AlphaBounce ;-- ;-- ;-- ;-- ;NAN;   Block-Breaking ;   Mad Monkey Studio ;   Mad Monkey Studio ;April 12, 2010 ;NAN;NAN
+326;405.0; Alter Echo ;6½ Hours ;-- ;8 Hours ;7 Hours ;   PlayStation 2, Xbox ;   Action ;   Outrage Entertainment ;   THQ ;August 19, 2003 ;NAN;NAN
+327;407.0; Alter Ego (1986) ;3 Hours ;4 Hours ;-- ;3½ Hours ;   Mobile, PC ;   Simulation ;   Activision ;   Activision ; 1986 ; 1986 ;NAN
+328;408.0; Alter Ego (2010) ;9 Hours ;9½ Hours ;10 Hours ;9½ Hours ;   PC ;NAN;   bitComposer Games ;   Viva Media ;August 03, 2010 ;August 03, 2010 ;NAN
+329;409.0; Altered Beast ;1 Hours ;1 Hours ;1½ Hours ;1 Hours ;   Arcade, Atari ST, Commodore 64, Mobile, MSX, NES, Nintendo 3DS, PC, PlayStation 3, PlayStation 4, PlayStation Portable, Sega Master System, Sega Mega Drive/Genesis, TurboGrafx-16, TurboGrafx-CD, Xbox 360, ZX Spectrum ;   Beat 'em Up ;   Sega ;   Sega ;August 14, 1989 ;November 30, 1990 ;November 27, 1988 
+330;410.0; Altered Beast: Guardian of the Realms ;2½ Hours ;-- ;8 Hours ;3½ Hours ;   Game Boy Advance ;   Beat 'em up ;   3d6 Games ;   THQ ; 2002 ; 2002 ;NAN
+331;411.0; AlterEgo: DreamWalker ;-- ;-- ;-- ;-- ;NAN;   Arcade ;   retrosouls ;NAN;NAN;NAN;NAN
+332;412.0; Alternativa ;6 Hours ;8½ Hours ;8½ Hours ;7 Hours ;   PC ;   Adventure ;   Centauri Production ;   Bohemia Interactive ;November 03, 2010 ;NAN;NAN
+333;414.0; Alundra ;29½ Hours ;32 Hours ;39½ Hours ;32 Hours ;   PlayStation, PlayStation 3, PlayStation Vita ;NAN;   Matrix Software ;NAN;December 31, 1997 ;June 05, 1998 ;April 11, 1997 
+334;415.0; Alundra 2: A New Legend Begins ;23½ Hours ;31½ Hours ;41 Hours ;27 Hours ;   PlayStation ;   Action-adventure ;   Contrail ;NAN;February 29, 2000 ;June 30, 2000 ;November 18, 1999 
+335;416.0; Always Remember Me ;2 Hours ;4 Hours ;6½ Hours ;5 Hours ;   PC ;   Visual Novel ;   Winter Wolves ;NAN;NAN;NAN;NAN
+336;417.0; Amagami ;10 Hours ;18 Hours ;-- ;14 Hours ;   PlayStation 2, PlayStation Portable ;   Simulation ;   Enterbrain ;   Enterbrain ;NAN;NAN;March 19, 2009 
+337;418.0; Amagon ;1 Hours ;1½ Hours ;2 Hours ;1½ Hours ;   NES ;NAN;   Aicom Corporation ;NAN;April 1989 ;NAN;December 02, 1988 
+338;420.0; Amazing Adventures: The Forgotten Ruins ;-- ;-- ;9 Hours ;9 Hours ;NAN;   Adventure ;   PopCap Games ;   PopCap Games ;November 11, 2008 ;NAN;NAN
+339;421.0; Amazing Adventures: The Lost Tomb ;8½ Hours ;10½ Hours ;12 Hours ;10 Hours ;   PC ;   Puzzle ;   PopCap Games ;   PopCap Games ;May 31, 2008 ;NAN;NAN
+340;422.0; Amazon Trail II ;-- ;-- ;-- ;-- ;NAN;   Adventure ;   MECC ;   The Learning Company ;NAN;NAN;NAN
+341;423.0; AMBER: Journeys Beyond ;3 Hours ;-- ;-- ;3 Hours ;   PC ;   Adventure ;   Hue Forest Entertainment ;   Hue Forest Entertainment ; 1996 ;NAN;NAN
+342;424.0; The Search for Amelia Earhart ;-- ;-- ;-- ;-- ;   PC ;   Adventure ;   Bamtang ;   ValuSoft ; 2010 ;NAN;NAN
+343;425.0; America's Army ;-- ;-- ;NAN;NAN;   PC ;NAN;   U.S. Army ;   U.S. Army ;NAN;NAN;NAN
+344;426.0; America's Army 3 ;-- ;-- ;-- ;NAN;   PC ;   First-person shooter ;   U.S. Army ;   U.S. Army ;June 17, 2009 ;June 17, 2009 ;NAN
+345;427.0; America's Army: Rise of a Soldier ;3 Hours ;-- ;-- ;3 Hours ;   Xbox ;   First Person Shooter ;NAN;   Ubisoft ;November 17, 2005 ;NAN;NAN
+346;428.0; American Chopper ;6½ Hours ;-- ;-- ;6½ Hours ;   PlayStation 2 ;NAN;NAN;   Activision ;June 15, 2006 ;NAN;NAN
+347;430.0; American Conquest: Fight Back ;-- ;30 Hours ;-- ;30 Hours ;   PC ;   Strategy ;   GSC Game World ;   GSC World Publishing ;September 30, 2003 ;NAN;NAN
+348;431.0; American Gladiators ;1½ Hours ;-- ;2½ Hours ;2½ Hours ;   NES, Sega Mega Drive/Genesis, Super Nintendo ;   Sports ;   Incredible Technologies ;   GameTek ; 1991 ; 1991 ;NAN
+349;432.0; American McGee's Alice ;11 Hours ;12½ Hours ;28 Hours ;12½ Hours ;   PC, PlayStation 3, Xbox 360 ;NAN;   Rogue Entertainment ;   Electronic Arts ;October 06, 2000 ;NAN;NAN
+350;433.0; American Mensa Academy ;-- ;-- ;11½ Hours ;11½ Hours ;   PC, PlayStation 3 ;NAN;   Silverball Studios ;   Square Enix ;July 27, 2012 ;NAN;NAN
+351;435.0; Amidar ;-- ;-- ;-- ;-- ;NAN;NAN;   Konami ;NAN;November 1982 ;NAN; 1981 
+352;436.0; Amidos Puzzle Collection ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+353;437.0; Amnesia (1986) ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+354;438.0; Amnesia: A Machine for Pigs ;4 Hours ;5 Hours ;6 Hours ;4½ Hours ;   Nintendo Switch, PC, PlayStation 4, Xbox One ;NAN;   The Chinese Room ;   Frictional Games ;September 10, 2013 ;NAN;NAN
+355;439.0; Amnesia: Justine ;55 Mins ;1 Hours ;1½ Hours ;1 Hours ;   Nintendo Switch, PC, PlayStation 4, Xbox One ;NAN;   Frictional Games ;   Frictional Games ;April 12, 2011 ;April 12, 2011 ;NAN
+356;440.0; Amnesia: The Dark Descent ;8 Hours ;9 Hours ;11 Hours ;8½ Hours ;   PC, Nintendo Switch, PlayStation 4, Xbox One ;NAN;   Frictional Games ;   Frictional Games ;September 08, 2010 ;September 08, 2010 ;NAN
+357;441.0; Among the Sleep ;2½ Hours ;3 Hours ;3½ Hours ;2½ Hours ;   Nintendo Switch, PC, PlayStation 4, Xbox One ;NAN;   Krillbite Studio ;NAN;May 29, 2014 ;May 29, 2014 ;May 29, 2014 
+358;442.0; Amped 2 ;7 Hours ;-- ;-- ;7 Hours ;   Xbox ;   Sports ;   Indie Built ;   Microsoft Game Studios ;October 28, 2003 ;November 14, 2003 ;February 26, 2004 
+359;443.0; Amped 3 ;6½ Hours ;9 Hours ;10 Hours ;8½ Hours ;   Xbox 360 ;   Sports ;   Indie Built ;   2K Sports ;November 15, 2005 ;December 02, 2005 ;NAN
+360;444.0; Amped: Freestyle Snowboarding ;20 Hours ;20 Hours ;20 Hours ;20 Hours ;   Xbox ;   Sports ;   Indie Built ;   Microsoft Game Studios ;November 19, 2001 ;March 14, 2002 ;February 22, 2002 
+361;445.0; Amplitude ;6 Hours ;16½ Hours ;82 Hours ;22 Hours ;   PlayStation 2 ;   Music/Rhythm ;   Harmonix ;   Sony Computer Entertainment ;March 24, 2003 ;September 26, 2003 ;NAN
+362;447.0; An Elder Scrolls Legend: Battlespire ;14½ Hours ;27½ Hours ;41 Hours ;20 Hours ;   PC ;NAN;   Bethesda Softworks ;   The Elder Scrolls ;November 30, 1997 ; 1997 ;NAN
+363;448.0; An Unfolding Tale ;15 Mins ;-- ;-- ;15 Mins ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+364;449.0; An Untitled Story ;-- ;11 Hours ;13 Hours ;11½ Hours ;   PC ;   Platform ;   Matt Makes Games ;   Matt Makes Games ;August 26, 2007 ;NAN;NAN
+365;450.0; Anachronox ;27½ Hours ;32 Hours ;39½ Hours ;31½ Hours ;   PC ;NAN;   Ion Storm ;NAN;June 27, 2001 ;June 29, 2001 ;NAN
+366;451.0; Analogue: A Hate Story ;3 Hours ;5 Hours ;6 Hours ;4½ Hours ;   PC ;   Visual Novel ;   Love Conquers All ;   Love Conquers All ;April 27, 2012 ;NAN;NAN
+367;452.0; Anarchy Online ;-- ;-- ;NAN;NAN;   PC ;NAN;   Funcom ;   Funcom ;NAN;NAN;NAN
+368;456.0; And Then There Were None ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+369;457.0; And Yet It Moves ;3 Hours ;4½ Hours ;9½ Hours ;3½ Hours ;   Mobile, PC, Wii ;   Platform ;   Broken Rules ;   Broken Rules ;April 02, 2009 ;April 02, 2009 ;NAN
+370;458.0; Andre Agassi Tennis ;3 Hours ;-- ;-- ;NAN;   Sega Mega Drive/Genesis, Super Nintendo ;   Sports ;   TecMagik ;   Lance Investments ; 1992 ; 1992 ;NAN
+371;459.0; Android Assault: The Revenge of Bari-Arm ;1 Hours ;1½ Hours ;-- ;1½ Hours ;   Sega CD ;NAN;   Human Entertainment ;NAN; 1994 ;NAN;July 30, 1993 
+372;460.0; Angel Devoid: Face of the Enemy ;-- ;4½ Hours ;9 Hours ;8 Hours ;   PC ;NAN;   Electric Dreams Software ;   Mindscape ;January 1996 ;NAN;NAN
+373;464.0; Angelique Tenkuu no Requiem ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+374;465.0; Angels Vs Devils ;-- ;11 Hours ;-- ;11 Hours ;   PC ;   Action ;   Nobilis France ;   Enigma Software Productions ;May 07, 2004 ;NAN;NAN
+375;466.0; Angry Birds ;6½ Hours ;14½ Hours ;16 Hours ;10½ Hours ;   Browser, Mobile, PC, PlayStation 3, PlayStation Portable ;   Puzzle ;   Rovio Mobile ;   Rovio Mobile ;December 11, 2009 ;NAN;NAN
+376;467.0; Angry Birds Rio ;6 Hours ;6½ Hours ;8 Hours ;7 Hours ;   Mobile, PC, PlayStation 3, Xbox 360 ;   Puzzle ;   Rovio Mobile ;   Rovio Mobile ;March 22, 2011 ;NAN;NAN
+377;468.0; Angry Birds Seasons ;6½ Hours ;11 Hours ;11½ Hours ;8 Hours ;   Mobile, PC, PlayStation 3 ;   Puzzle ;   Rovio Mobile ;   Rovio Mobile ;October 21, 2010 ;October 21, 2010 ;NAN
+378;470.0; Angry Birds Star Wars ;4½ Hours ;6½ Hours ;12½ Hours ;6 Hours ;   Mobile, Nintendo 3DS, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Wii, Wii U, Xbox 360 ;   Puzzle ;   Rovio Entertainment ;   Rovio Entertainment ;November 08, 2012 ;NAN;NAN
+379;472.0; Animal Crossing ;68 Hours ;157 Hours ;610 Hours ;141 Hours ;   Nintendo GameCube ;   Simulation ;   Nintendo EAD ;   Nintendo ;September 15, 2002 ;NAN;April 14, 2001 
+380;473.0; Animal Crossing: City Folk ;66 Hours ;171 Hours ;428 Hours ;115 Hours ;   Wii, Wii U ;   Simulation ;   Nintendo EAD ;   Nintendo ;November 16, 2008 ;December 05, 2008 ;November 20, 2008 
+381;474.0; Animal Crossing: New Leaf ;81½ Hours ;194 Hours ;455 Hours ;165 Hours ;   Nintendo 3DS ;   Simulation ;   Nintendo EAD Group No. 2 ;   Nintendo ;June 09, 2013 ;June 14, 2013 ;NAN
+382;475.0; Animal Crossing: Wild World ;69 Hours ;148 Hours ;409 Hours ;119 Hours ;   Nintendo 3DS, Nintendo DS ;   Simulation ;   Nintendo EAD ;   Nintendo ;December 05, 2005 ;March 31, 2006 ;November 23, 2005 
+383;476.0; Animal Paradise ;-- ;-- ;3½ Hours ;3½ Hours ;   Nintendo DS ;   Life simulation game ;   Empire Interactive ;   Empire Interactive ;September 23, 2008 ;November 16, 2007 ;NAN
+384;477.0; Animamundi: Dark Alchemist ;5 Hours ;-- ;-- ;5 Hours ;   PC ;NAN;   Karin Entertainment ;   Hirameki International ;May 31, 2006 ; 2005 ;January 28, 2005 
+385;478.0; Animaniacs ;2 Hours ;2½ Hours ;2½ Hours ;2 Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;   Platformer ;NAN;   Konami ;November 1994 ; 1994 ;March 07, 1997 
+386;479.0; Animorphs ;6½ Hours ;-- ;-- ;6½ Hours ;   Game Boy Color ;   Adventure ;   Ubisoft ;   Ubisoft ;November 07, 2000 ;NAN;NAN
+387;480.0; Ankh ;6 Hours ;9 Hours ;10½ Hours ;7 Hours ;   Nintendo DS, PC ;NAN;   Deck13 Interactive ;   BHV Software ;November 04, 2005 ;NAN;NAN
+388;481.0; Ankh 2: Heart of Osiris ;7½ Hours ;-- ;8½ Hours ;8 Hours ;   PC ;   Adventure ;   Deck 13 ;   Strategy First ;May 18, 2007 ;NAN;NAN
+389;482.0; Ankh 3: Battle of the Gods ;6 Hours ;-- ;7 Hours ;6½ Hours ;   PC ;   Adventure ;   DECK13 Interactive ;   Daedalic Entertainment ;July 16, 2009 ;July 16, 2009 ;NAN
+390;484.0; Anna's Quest ;9½ Hours ;11 Hours ;11½ Hours ;11 Hours ;   PC ;   Adventure ;NAN;   Daedalic Entertainment ;July 02, 2015 ;NAN;NAN
+391;485.0; Anno 1404 ;17h ;43h ;147h ;39h ;   Nintendo DS, PC, Wii ;NAN;NAN;   Ubisoft ;June 23, 2009 ;June 25, 2009 ;NAN
+392;486.0; Anno 1404: Venice ;21 Hours ;31½ Hours ;46 Hours ;32 Hours ;   PC ;   Real-time strategy ;NAN;   Ubisoft Entertainment ;June 23, 2009 ;NAN;NAN
+393;487.0; Anno 1503: The New World ;41½ Hours ;50½ Hours ;-- ;44½ Hours ;   PC ;NAN;   Max Design ;   Sunflowers ;April 04, 2003 ;March 23, 2003 ;NAN
+394;488.0; Anno 1602 ;26½ Hours ;-- ;61 Hours ;41 Hours ;   PC ;NAN;   Max Design ;   Sunflowers ;February 01, 2000 ;September 24, 1998 ;NAN
+395;489.0; Anno 1701 ;18½ Hours ;20 Hours ;-- ;19½ Hours ;   PC ;NAN;   Related Designs ;   Sunflowers ;October 30, 2006 ;November 03, 2006 ;NAN
+396;492.0; Anodyne ;6 Hours ;7 Hours ;9 Hours ;6½ Hours ;   Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One ;NAN;   Analgesic Productions ;   Analgesic Productions ;February 04, 2013 ;NAN;NAN
+397;494.0; Anomaly: Warzone Earth - Mobile Campaign ;4 Hours ;4½ Hours ;9 Hours ;4½ Hours ;   Mobile, PC ;NAN;   11 bit studios ;   11 bit studios ;November 06, 2013 ;NAN;NAN
+398;497.0; Anonymous Notes: Chapter 1 - From The Abyss ;34 Mins ;2 Hours ;-- ;1 Hours ;   Nintendo DS ;NAN;   Sonic Powered ;   Sonic Powered ;April 04, 2011 ;NAN;NAN
+399;498.0; Anonymous Notes: Chapter 2 - From The Abyss ;-- ;-- ;-- ;-- ;NAN;NAN;   Sonic Powered ;   Sonic Powered ;May 02, 2011 ;NAN;NAN
+400;499.0; Another Century's Episode 2 ;-- ;35 Hours ;-- ;35 Hours ;   PlayStation 2 ;   Action ;   From Software ;   Banpresto ;March 30, 2006 ;NAN;NAN
+401;500.0; Another Century's Episode: R ;-- ;32 Hours ;-- ;32 Hours ;   PlayStation 3 ;   Action ;   From Software ;NAN;NAN;NAN;August 19, 2010 
+402;501.0; Another Code: R - A Journey into Lost Memories ;17 Hours ;18 Hours ;19½ Hours ;18 Hours ;   Wii ;   Adventure ;   Cing ;   Nintendo ;NAN;June 26, 2009 ;February 05, 2009 
+403;502.0; Another Code: Two Memories ;5 Hours ;6 Hours ;6½ Hours ;5½ Hours ;   Nintendo 3DS, Nintendo DS ;   Adventure ;   Cing ;   Nintendo ;September 26, 2005 ;June 24, 2005 ;February 24, 2005 
+404;503.0; Another World ;2½ Hours ;2½ Hours ;2½ Hours ;2½ Hours ;   3DO, Amiga, Apple II, Atari Jaguar, Atari ST, Game Boy Advance, Linux, Mac, Mobile, Nintendo 3DS, Nintendo Switch, Ouya, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Sega Mega Drive/Genesis, Super Nintendo, Wii U, Xbox One ;   Platform ;   Eric Chahi ;NAN; 1991 ; 1991 ;November 27, 1992 
+405;504.0; Anstoss 2 ;-- ;-- ;-- ;NAN;NAN;   Sports ;NAN;NAN;NAN;NAN;NAN
+406;505.0; Anstoss 2 Gold ;-- ;-- ;-- ;NAN;   PC ;   Sports ;NAN;NAN;NAN;NAN;NAN
+407;506.0; Anstoss 3 ;-- ;-- ;-- ;NAN;   PC ;   Sports ;NAN;NAN;NAN;NAN;NAN
+408;507.0; Ant War ;-- ;-- ;-- ;-- ;   PC ;   Strategy ;NAN;   Anarchy Enterprises ;October 10, 2003 ;NAN;NAN
+409;508.0; Antarctic Adventure ;36 Mins ;1½ Hours ;1½ Hours ;1 Hours ;   Arcade, ColecoVision, MSX, NES ;NAN;   Konami ;   Konami ; 1983 ;NAN;NAN
+410;510.0; Antichamber ;6 Hours ;7½ Hours ;8½ Hours ;7 Hours ;   PC ;NAN;   Demruth ;   Demruth ;January 31, 2013 ;January 31, 2013 ;NAN
+411;511.0; Anticipation ;54 Mins ;-- ;1 Hours ;58 Mins ;   NES ;NAN;   Rare ;   Nintendo ;November 1988 ;October 25, 1989 ;NAN
+412;512.0; Anvil of Dawn ;23½ Hours ;25 Hours ;-- ;24½ Hours ;   PC ;   Role-Playing ;   DreamForge Intertainment ;   New World Computing ;October 31, 1995 ;NAN;NAN
+413;513.0; Ao Oni ;1 Hours ;-- ;1½ Hours ;1½ Hours ;   PC ;NAN;NAN;NAN;May 07, 2009 ;NAN;NAN
+414;514.0; Apache Vs Havoc ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+415;515.0; Apache: Air Assault ;10 Hours ;-- ;37½ Hours ;24 Hours ;   PlayStation 3 ;NAN;   Gaijin Entertainment ;   Activision ;November 16, 2010 ;NAN;NAN
+416;517.0; APB: Reloaded ;234 Hours ;276 Hours ;NAN;NAN;   PC ;NAN;NAN;NAN;June 29, 2010 ;July 01, 2010 ;NAN
+417;518.0; Ape Escape ;8 Hours ;10½ Hours ;15 Hours ;9 Hours ;   PlayStation ;NAN;   Japan Studio ;   Sony Computer Entertainment ;June 18, 1999 ;NAN;NAN
+418;519.0; Ape Escape 2 ;8½ Hours ;12 Hours ;24 Hours ;12 Hours ;   PlayStation 2, PlayStation 4 ;   Platform ;   Japan Studio ;NAN;June 30, 2003 ;March 14, 2003 ;July 18, 2001 
+419;520.0; Ape Escape 3 ;6 Hours ;9 Hours ;12 Hours ;8 Hours ;   PlayStation 2 ;   Platform ;   Japan Studio ;   Sony Computer Entertainment ;January 17, 2006 ;May 05, 2005 ;July 14, 2005 
+420;521.0; Ape Escape: On the Loose ;7 Hours ;7 Hours ;9 Hours ;7½ Hours ;   PlayStation Vita, PlayStation Portable ;   Platform ;   Sony Computer Entertainment ;   Sony Computer Entertainment ;March 22, 2005 ;NAN;NAN
+421;522.0; Aphelion Episode One: Graves of Earth ;-- ;6½ Hours ;-- ;6½ Hours ;   Xbox 360 ;   Role-Playing ;   Lunatic Studios ;   Lunatic Studios ;July 08, 2010 ;July 08, 2010 ;NAN
+422;523.0; Apocalypse (1998) ;4½ Hours ;6 Hours ;-- ;4½ Hours ;   PlayStation ;NAN;   Neversoft ;   Activision ;October 31, 1998 ;November 1998 ;September 22, 1999 
+423;524.0; Apollo Justice: Ace Attorney ;20 Hours ;22 Hours ;22 Hours ;20½ Hours ;   Mobile, Nintendo 3DS, Nintendo DS ;   Adventure ;   Capcom ;   Capcom ;February 19, 2008 ;May 09, 2008 ;April 12, 2007 
+424;525.0; APOX ;-- ;-- ;-- ;-- ;   PC ;NAN;   Bluegiant Interactive ;   Bluegiant Interactive ;January 20, 2011 ;NAN;NAN
+425;526.0; Aqua ;3½ Hours ;5 Hours ;13 Hours ;4 Hours ;   PC, Xbox 360 ;   Shooter ;   Games Distillery ;   Microsoft Studios ;May 19, 2010 ;NAN;NAN
+426;527.0; Aqua Aqua ;-- ;-- ;-- ;-- ;NAN;   Puzzle ;   Zed Two ;NAN;January 09, 2001 ;NAN;November 02, 2000 
+427;529.0; Aquanaut's Holiday: Hidden Memories ;17½ Hours ;20 Hours ;42 Hours ;21 Hours ;   PlayStation 3 ;   Submarine adventure ;   Artdink ;   Sony Computer Entertainment ;NAN;NAN;September 25, 2008 
+428;530.0; AquaNox ;9½ Hours ;11½ Hours ;11½ Hours ;10 Hours ;   PC ;NAN;   Massive Development ;   Fishtank Interactive ;November 30, 2001 ;NAN;NAN
+429;531.0; AquaNox 2: Revelation ;11½ Hours ;12½ Hours ;17 Hours ;12½ Hours ;   PC ;   Simulation ;   Massive Development ;NAN;August 22, 2003 ;NAN;NAN
+430;532.0; Aquaria ;16 Hours ;21 Hours ;23 Hours ;20 Hours ;   PC ;   Adventure ;   Bit Blot ;   Bit Blot ;December 07, 2007 ;December 07, 2007 ;NAN
+431;534.0; Ar tonelico II: Melody of Metafalica ;43½ Hours ;57 Hours ;107 Hours ;56½ Hours ;   PlayStation 2 ;   Role-Playing ;   Gust ;NAN;January 20, 2009 ;June 05, 2009 ;October 25, 2007 
+432;535.0; Ar tonelico Qoga: Knell of Ar Ciel ;32½ Hours ;44 Hours ;103 Hours ;44½ Hours ;   PlayStation 3 ;   RPG ;   Gust ;NAN;March 15, 2011 ;April 01, 2011 ;January 28, 2010 
+433;536.0; Ar tonelico: Melody of Elemia ;29½ Hours ;40½ Hours ;75½ Hours ;39½ Hours ;   PlayStation 2 ;   RPG ;   Gust ;NAN;February 06, 2007 ;May 22, 2007 ;January 26, 2006 
+434;538.0; Arabian Magic ;39 Mins ;-- ;-- ;39 Mins ;   Arcade, PlayStation 2 ;   Beat 'em Up ;   Taito ;   Taito ; 1992 ;NAN;NAN
+435;539.0; Arabian Nights: Spirit of the Desert King ;12 Hours ;14 Hours ;-- ;12½ Hours ;   Super Nintendo ;   Role-Playing ;   Pandora Box ;   Takara ;NAN;NAN;June 14, 1996 
+436;540.0; Aralon: Sword and Shadow ;11 Hours ;-- ;14 Hours ;12½ Hours ;   Mobile ;   Role-Playing ;   Crescent Moon Games ;   Crescent Moon Games ;NAN;NAN;NAN
+437;541.0; Arc Arena: Monster Tournament ;8 Hours ;-- ;-- ;8 Hours ;   PlayStation ;   Role-Playing ;   Arc Entertainment ;NAN;November 23, 2010 ;NAN;NAN
+438;542.0; Arc Rise Fantasia ;52 Hours ;65½ Hours ;82 Hours ;62 Hours ;   Wii ;   Role-Playing ;NAN;NAN;July 20, 2010 ;NAN;June 04, 2009 
+439;543.0; Arc the Lad ;10½ Hours ;14½ Hours ;23½ Hours ;14 Hours ;   PlayStation, PlayStation 3, PlayStation Vita, PlayStation Portable ;NAN;NAN;NAN;April 18, 2002 ;NAN;June 30, 1995 
+440;544.0; Arc the Lad Collection ;176 Hours ;-- ;-- ;NAN;   PlayStation ;NAN;   SCEI ;   Working Designs ;April 18, 2002 ;NAN;NAN
+441;545.0; Arc the Lad II ;56½ Hours ;59½ Hours ;78½ Hours ;63 Hours ;   PlayStation, PlayStation Vita ;NAN;NAN;NAN;April 18, 2002 ;NAN;June 20, 1996 
+442;546.0; Arc the Lad III ;49 Hours ;61½ Hours ;68½ Hours ;60½ Hours ;   PlayStation ;NAN;NAN;NAN;April 18, 2002 ;NAN;October 28, 1999 
+443;547.0; Arc the Lad: End of Darkness ;15 Hours ;19 Hours ;31 Hours ;20 Hours ;   PlayStation 2 ;NAN;   Cattle Call ;NAN;June 14, 2005 ;NAN;November 03, 2004 
+444;548.0; Arc the Lad: Twilight of the Spirits ;38 Hours ;46½ Hours ;54 Hours ;42 Hours ;   PlayStation 2, PlayStation 4 ;NAN;   Cattle Call ;   Sony Computer Entertainment ;June 25, 2003 ;January 30, 2004 ;March 20, 2003 
+445;549.0; Arcade's Greatest Hits: The Atari Collection 1 ;-- ;-- ;-- ;NAN;   PlayStation ;   Compilation ;   Digital Eclipse ;   Midway Games ;December 31, 1996 ;NAN;NAN
+446;550.0; Arcade's Greatest Hits: The Atari Collection 2 ;-- ;-- ;-- ;NAN;NAN;   Compilation ;   Digital Eclipse ;   Midway Games ;April 05, 1998 ;April 17, 1998 ;NAN
+447;551.0; Arcadia (1982) ;21 Mins ;-- ;42 Mins ;26 Mins ;   PC ;   Shooter ;   David H. Lawson ;   Imagine Software ; 1982 ;NAN;NAN
+448;552.0; Arcana ;11 Hours ;12½ Hours ;21½ Hours ;13 Hours ;   Super Nintendo ;   Role-Playing ;   HAL Laboratory ;   HAL Laboratory ;May 1992 ;NAN;March 27, 1992 
+449;553.0; Arcana Heart ;36 Mins ;3½ Hours ;6 Hours ;1½ Hours ;   PlayStation 2 ;   Fighting ;   Examu ;   Atlus ;April 10, 2008 ;NAN;December 22, 2006 
+450;554.0; Arcana Heart 3 ;53 Mins ;10 Hours ;-- ;1½ Hours ;   PlayStation 3, Xbox 360 ;   Fighting ;   Examu ;   Examu ;April 19, 2011 ;NAN;December 22, 2009 
+451;556.0; ArcaniA: Gothic 4 ;16 Hours ;21 Hours ;32½ Hours ;21 Hours ;   PC, PlayStation 3, PlayStation 4, Xbox 360 ;NAN;   Spellbound Entertainment ;NAN;October 19, 2010 ;October 12, 2010 ;NAN
+452;557.0; Arcanum: Of Steamworks and Magick Obscura ;32 Hours ;44 Hours ;81½ Hours ;45½ Hours ;   PC ;NAN;   Troika Games ;   Sierra Entertainment ;August 21, 2001 ;August 24, 2001 ;NAN
+453;559.0; Arch Rivals ;57 Mins - 1 Hours ;-- ;-- ;NAN;   NES ;   Sports ;   Midway ;   Midway ; 1989 ;NAN;NAN
+454;560.0; Archon: The Light and the Dark ;23 Mins ;42 Mins ;46 Mins ;38 Mins ;   Atari 8-bit Family, NES ;   Strategy ;   Free Fall Associates ;NAN; 1983 ;NAN;NAN
+455;562.0; Are You Smarter than a 10 Year Old? ;6 Mins ;-- ;2 Hours ;1 Hours ;NAN;NAN;   Mindscape ;NAN;November 07, 2008 ;NAN;NAN
+456;563.0; Are You Smarter Than a 5th Grader? (2007) ;1 Hours ;-- ;9½ Hours ;2 Hours ;   Nintendo DS, PC ;   Trivia ;   THQ ;   THQ ;November 24, 2007 ;NAN;NAN
+457;564.0; Are You Smarter Than a 5th Grader?: Make the Grade ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+458;565.0; Area 51 ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+459;566.0; Area 51 (1995) ;37 Mins ;41 Mins ;1 Hours ;45 Mins ;   Arcade, PlayStation, Sega Saturn ;NAN;   Mesa Logic ;   Atari ; 1995 ;NAN;NAN
+460;567.0; Area 51 (2005) ;7 Hours ;7 Hours ;10 Hours ;7 Hours ;   PC, PlayStation 2, Xbox ;NAN;   Midway Studios Austin ;   Midway ;April 25, 2005 ;May 27, 2005 ;NAN
+461;568.0; Arena Football (2006) ;-- ;-- ;-- ;-- ;NAN;   Sports ;   EA Sports ;   Electronic Arts ;February 07, 2006 ;NAN;NAN
+462;569.0; Arena: Maze of Death ;-- ;-- ;-- ;-- ;NAN;   Action ;   Eden Entertainment Software ;   Sega ; 1996 ; 1996 ;NAN
+463;570.0; Aretha ;-- ;32½ Hours ;-- ;32½ Hours ;NAN;   Role-Playing ;   Japan Art Media ;   Yanoman Corporation ;NAN;NAN;November 23, 1993 
+464;571.0; Argus (1986) ;-- ;1½ Hours ;-- ;1½ Hours ;   Arcade, NES, Nintendo Switch, PlayStation 4 ;NAN;   TOSE ;   Jaleco Entertainment ;NAN;NAN;April 17, 1986 
+465;573.0; Arkanoid ;2 Hours ;-- ;2 Hours ;2 Hours ;   Amiga, Arcade, NES, PC ;NAN;   Taito ;NAN; 1986 ;NAN;NAN
+466;575.0; Arkanoid: Doh it Again ;4½ Hours ;6½ Hours ;7½ Hours ;6 Hours ;   Super Nintendo ;NAN;   Tiato ;   Nintendo ;October 01, 1997 ;NAN;NAN
+467;576.0; Arkham Asylum ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+468;577.0; ARMA II: Private Military Company ;6 Hours ;-- ;-- ;6 Hours ;   PC ;NAN;   Bohemia Interactive ;   Bohemia Interactive ;November 30, 2010 ;NAN;NAN
+469;578.0; ARMA 3 ;19½ Hours ;39½ Hours ;99 Hours ;28 Hours ;   PC ;NAN;   Bohemia Interactive ;   Bohemia Interactive ;September 12, 2013 ;NAN;NAN
+470;579.0; ARMA II ;17½ Hours ;33½ Hours ;102 Hours ;25½ Hours ;   PC ;NAN;   Bohemia Interactive Studio ;NAN;July 07, 2009 ;June 19, 2009 ;NAN
+471;580.0; ARMA II: British Armed Forces ;17 Hours ;-- ;-- ;17 Hours ;   PC ;NAN;   Bohemia Interactive ;   Bohemia Interactive ;August 27, 2010 ;NAN;NAN
+472;581.0; ARMA II: Operation Arrowhead ;7½ Hours ;-- ;-- ;7½ Hours ;   PC ;NAN;   Bohemia Interactive Studio ;NAN;June 29, 2010 ;NAN;NAN
+473;582.0; ARMA X: Anniversary Edition ;-- ;-- ;-- ;NAN;   PC ;NAN;   Bohemia Interactive ;   Bohemia Interactive ;July 15, 2011 ;NAN;NAN
+474;583.0; ARMA: Armed Assault ;11 Hours ;12½ Hours ;30 Hours ;14 Hours ;   PC ;   Tactical Shooter ;   Bohemia Interactive Studio ;NAN;May 04, 2007 ;February 23, 2007 ;NAN
+475;584.0; ARMA: Gold Edition ;25½ Hours ;28½ Hours ;52½ Hours ;30½ Hours ;   PC ;NAN;   Bohemia Interactive ;   Bohemia Interactive ;July 13, 2011 ;NAN;NAN
+476;585.0; Armada 2526 ;-- ;-- ;-- ;-- ;   PC ;NAN;   Ntronium Games ;NAN;November 17, 2009 ;NAN;NAN
+477;586.0; Armageddon Riders ;5½ Hours ;-- ;-- ;5½ Hours ;   PC, PlayStation 3 ;   Vehicular Combat ;   Targem Games ;   Targem Games ;June 02, 2011 ;June 02, 2011 ;NAN
+478;587.0; Armagetron Advanced ;-- ;-- ;NAN;NAN;NAN;   Racing ;   ArmagetronAd.org ;   ArmagetronAd.org ; 2001 ;NAN;NAN
+479;588.0; Armalyte ;56 Mins ;-- ;-- ;56 Mins ;   Commodore 64 ;NAN;   Cyberdyne Systems ;   Thalamus ; 1988 ; 1988 ;NAN
+480;589.0; Armed and Dangerous ;6 Hours ;8 Hours ;9½ Hours ;6½ Hours ;   PC, Xbox ;NAN;   Planet Moon Studios ;NAN;December 02, 2003 ;NAN;NAN
+481;590.0; Armed Forces Corp ;1 Hours ;-- ;1 Hours ;1 Hours ;   PC ;   Shooter ;   City Interactive ;   City Interactive ;March 03, 2009 ;NAN;NAN
+482;591.0; Armed Police Batrider ;29 Mins ;1 Hours ;5 Hours ;1½ Hours ;   Arcade ;   Shoot 'em Up ;NAN;NAN;NAN;NAN; 1998 
+483;592.0; Armed with Wings 3 ;56 Mins ;-- ;-- ;56 Mins ;   PC ;NAN;NAN;NAN;NAN;NAN;NAN
+484;593.0; Armies of Exigo ;14 Hours ;18½ Hours ;33½ Hours ;22 Hours ;   PC ;   Real-Time Strategy ;   Black Hole Entertainment ;   Electronic Arts ;November 30, 2004 ;NAN;NAN
+485;594.0; Armored Core ;8 Hours ;8 Hours ;10½ Hours ;8½ Hours ;   PlayStation ;NAN;   From Software ;NAN;October 30, 1997 ;June 01, 1998 ;July 10, 1997 
+486;595.0; Armored Core 2 ;10½ Hours ;13 Hours ;23 Hours ;12½ Hours ;   PlayStation 2 ;NAN;   From Software ;   Agetec ;October 24, 2000 ;March 23, 2001 ;August 03, 2000 
+487;596.0; Armored Core 2: Another Age ;18½ Hours ;39 Hours ;42½ Hours ;31 Hours ;   PlayStation 2 ;   Action ;   From Software ;NAN;August 22, 2001 ;September 27, 2002 ;April 12, 2001 
+488;597.0; Armored Core 3 ;17 Hours ;17 Hours ;23½ Hours ;18 Hours ;   PlayStation 2 ;NAN;   From Software ;   Agetec ;September 10, 2002 ;May 30, 2003 ;April 01, 2002 
+489;598.0; Armored Core 4 ;9 Hours ;19 Hours ;22½ Hours ;10½ Hours ;   PlayStation 3, Xbox 360 ;   Vehicular Combat ;   From Software ;NAN;March 20, 2007 ;NAN;December 21, 2006 
+490;599.0; Armored Core V ;13 Hours ;21 Hours ;60 Hours ;22 Hours ;   PlayStation 3, Xbox 360 ;   Simulation ;   From Software ;NAN;March 20, 2012 ;March 23, 2012 ;January 26, 2012 
+491;601.0; Armored Core: Formula Front Extreme Battle ;3 Hours ;-- ;-- ;3 Hours ;   PlayStation Portable ;NAN;   From Software ;   Agetec ;December 15, 2005 ;March 03, 2006 ;December 12, 2004 
+492;602.0; Armored Core: Master of Arena ;5½ Hours ;6½ Hours ;-- ;6 Hours ;   PlayStation ;NAN;   From Software ;   Agetec ;February 29, 2000 ;NAN;February 04, 1999 
+493;603.0; Armored Core: Project Phantasma ;5 Hours ;9 Hours ;9½ Hours ;6½ Hours ;   PlayStation ;NAN;   From Software ;NAN;September 30, 1998 ;NAN;December 04, 1997 
+494;604.0; Armored Core: Silent Line ;6½ Hours ;10 Hours ;30 Hours ;9 Hours ;   PlayStation 2 ;NAN;   FromSoftware ;NAN;July 15, 2003 ;NAN;NAN
+495;606.0; Armorines: Project S.W.A.R.M. ;-- ;-- ;-- ;-- ;   Nintendo 64, PlayStation ;NAN;NAN;   Acclaim Entertainment ;December 02, 1999 ;June 30, 2000 ;NAN
+496;607.0; Army Corps of Hell ;45 Hours ;65 Hours ;65½ Hours ;62 Hours ;   PlayStation Vita ;   Action ;   Entersphere ;   Square Enix ;February 22, 2012 ;February 22, 2012 ;December 17, 2011 
+497;608.0; Army Men ;2 Hours ;-- ;-- ;2 Hours ;   Game Boy Color, PC ;NAN;   Digital Eclipse Software ;NAN;April 30, 1998 ;NAN;NAN
+498;609.0; Army Men 3D ;5 Hours ;-- ;-- ;5 Hours ;   PlayStation ;NAN;   The 3DO Company ;NAN;March 10, 1999 ;NAN;NAN
+499;610.0; Army Men II ;4 Hours ;-- ;-- ;4 Hours ;   PC ;   Action ;   The 3DO Company ;   The 3DO Company ;March 22, 1999 ;NAN;NAN
+500;611.0; Army Men R*T*S ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+501;612.0; Army Men: Air Attack ;8 Hours ;-- ;-- ;8 Hours ;   Nintendo 64, PC, PlayStation ;   Shooter ;   3DO ;   3DO ;October 13, 1999 ;NAN;NAN
+502;613.0; Army Men: Air Attack 2 ;4 Hours ;-- ;-- ;4 Hours ;   PlayStation, PlayStation 2 ;   Shooter ;   3DO ;   3DO ;September 26, 2000 ;NAN;NAN
+503;614.0; Army Men: Green Rogue ;3 Hours ;4 Hours ;-- ;3½ Hours ;   PlayStation ;NAN;NAN;   3DO ; 2001 ;NAN;NAN
+504;615.0; Army Men: Sarge's Heroes ;7½ Hours ;11½ Hours ;-- ;9 Hours ;   Dreamcast, Nintendo 64, PC, PlayStation ;   Action Shooter ;   3DO ;   3DO ;September 30, 1999 ;NAN;NAN
+505;616.0; Army Men: Sarge's Heroes 2 ;6 Hours ;-- ;6½ Hours ;6½ Hours ;   Game Boy Color, Nintendo 64, PlayStation, PlayStation 2 ;   Action Shooter ;   3DO ;   3DO ; 2000 ; 2000 ;NAN
+506;617.0; Army Men: Toys in Space ;-- ;-- ;-- ;-- ;   PC ;NAN;   The 3DO Company ;   The 3DO Company ;August 13, 1999 ;NAN;NAN
+507;618.0; Army Men: World War ;-- ;-- ;-- ;-- ;   PC, PlayStation ;   Shooter ;   3DO ;   3DO ; 2000 ; 2000 ;NAN
+508;619.0; Army Men: World War - Final Front ;5 Hours ;7 Hours ;-- ;6 Hours ;   PlayStation ;NAN;   3DO ;   3DO ;February 27, 2001 ;NAN;NAN
+509;620.0; Army Men: World War - Land Sea Air ;-- ;-- ;-- ;-- ;   PlayStation ;   Action ;   3DO ;   3DO ;September 28, 2000 ;NAN;NAN
+510;621.0; Army Men: World War - Team Assault ;-- ;12 Hours ;-- ;12 Hours ;   PlayStation ;   Action ;   3DO ;   3DO ;January 01, 2002 ;January 01, 2002 ;NAN
+511;623.0; Army of Two: The 40th Day ;7½ Hours ;9½ Hours ;11½ Hours ;8 Hours ;   PlayStation 3, PlayStation Portable, Xbox 360 ;NAN;   EA Montreal ;   Electronic Arts ;January 12, 2010 ;January 08, 2010 ;NAN
+512;624.0; Army of Two: The Devil's Cartel ;8 Hours ;10½ Hours ;20½ Hours ;8½ Hours ;   PlayStation 3, Xbox 360 ;NAN;NAN;   Electronic Arts ;March 26, 2013 ;March 29, 2013 ;March 28, 2013 
+513;625.0; Around the World in 80 Days ;2 Hours ;-- ;4 Hours ;3 Hours ;   Game Boy Advance, PC ;NAN;   Saffire ;   Hip Games ;July 05, 2005 ;October 15, 2004 ;NAN
+514;626.0; Arsenal of Democracy ;-- ;-- ;-- ;-- ;   PC ;NAN;   BL-Logic ;   Paradox Interactive ;NAN;NAN;NAN
+515;627.0; Art Academy: First Semester ;-- ;-- ;5½ Hours ;5½ Hours ;   Nintendo DS ;   Art ;NAN;   Nintendo ;September 14, 2009 ;NAN;November 18, 2009 
+516;629.0; Art of Fighting ;48 Mins ;1 Hours ;1 Hours ;1 Hours ;   Arcade, Neo Geo, Sega Mega Drive/Genesis, Super Nintendo, TurboGrafx-CD ;   Fighting ;   SNK ;   SNK ;September 24, 1992 ;NAN;NAN
+517;630.0; Art of Fighting 2 ;58 Mins ;1 Hours ;3½ Hours ;3 Hours ;   Arcade, Neo Geo, Nintendo Switch, PC, PlayStation 4, Xbox One ;   Fighting ;   SNK ;   SNK ;February 02, 1994 ;NAN;NAN
+518;631.0; Art of Fighting 3: The Path of the Warrior ;41 Mins ;2 Hours ;3½ Hours ;1 Hours ;   Arcade, Neo Geo, Nintendo Switch ;   Fighting ;   SNK ;   SNK ;March 12, 1996 ;NAN;NAN
+519;632.0; Art of Fighting Anthology ;2 Hours ;-- ;-- ;NAN;   PlayStation 2 ;   Fighting ;   SNK Playmore ;NAN;May 15, 2007 ;NAN;NAN
+520;634.0; Art Style: PiCOPiCT ;2 Hours ;2½ Hours ;3½ Hours ;2½ Hours ;   Nintendo 3DS, Nintendo DS ;   Puzzle ;   skip Ltd. ;   Nintendo ;May 18, 2009 ;May 22, 2009 ;January 28, 2009 
+521;635.0; Arthur and the Invisibles ;10 Hours ;10 Hours ;-- ;10 Hours ;   Game Boy Advance, Nintendo DS, PC, PlayStation 2 ;   Adventure ;NAN;   Atari ;January 09, 2007 ;NAN;NAN
+522;636.0; Arthur: The Quest for Excalibur ;20 Mins ;-- ;-- ;20 Mins ;NAN;   Adventure ;   Infocom ;   Infocom ;June 06, 1989 ;NAN;NAN
+523;637.0; Arx Fatalis ;20 Hours ;30 Hours ;53 Hours ;26 Hours ;   PC, Xbox ;NAN;   Arkane Studios ;NAN;November 11, 2002 ;June 28, 2002 ;NAN
+524;638.0; Arx Fatalis Demo ;-- ;-- ;-- ;-- ;   PC ;NAN;NAN;NAN;NAN;NAN;NAN
+525;639.0; Ascendancy ;33 Hours ;-- ;-- ;33 Hours ;   PC ;   Turn-Based Strategy ;   The Logic Factory ;NAN; 1995 ; 1995 ;NAN
+526;640.0; Ascension: Deckbuilding Game ;6½ Hours ;7½ Hours ;-- ;7 Hours ;   PC ;NAN;NAN;   Asmodee Digital ;December 16, 2014 ;December 16, 2014 ;NAN
+527;641.0; Ascension (2012) ;46 Mins ;-- ;1½ Hours ;1 Hours ;   PC ;NAN;   Magnesium Ninja Studios ;NAN;November 02, 2012 ;November 02, 2012 ;November 02, 2012 
+528;642.0; Ascension to the Throne ;-- ;16 Hours ;16½ Hours ;16½ Hours ;   PC ;NAN;   1C ;   DVS ;January 26, 2007 ;January 26, 2007 ;NAN
+529;643.0; Ascension to the Throne: Valkyrie ;-- ;-- ;-- ;-- ;   PC ;   RPG ;   Strategy First ;   Strategy First ; 2009 ;NAN;NAN
+530;644.0; Aselia the Eternal ;56½ Hours ;-- ;-- ;56½ Hours ;   PC ;   Visual Novel ;   Xuse ;NAN;November 13, 2011 ;NAN;NAN
+531;646.0; Asphalt 7: Heat ;7½ Hours ;7½ Hours ;-- ;7½ Hours ;   Mobile ;   Racing ;   Gameloft ;   Gameloft ;June 21, 2012 ;NAN;NAN
+532;647.0; Asphalt: Urban GT ;5½ Hours ;-- ;12 Hours ;10 Hours ;   Mobile, Nintendo DS ;   Racing ;   Gameloft ;   Gameloft ;November 15, 2004 ;NAN;NAN
+533;648.0; Asphalt: Urban GT 2 ;13 Hours ;-- ;14 Hours ;13½ Hours ;   Mobile, Nintendo DS, PlayStation Portable ;   Racing ;   Virtuos ;   Gameloft ;November 30, 2005 ;November 24, 2006 ;NAN
+534;649.0; Assassin's Creed ;15h ;20h ;32h ;19h ;   PC, PlayStation 3, Xbox 360 ;NAN;   Ubisoft Montreal ;   Ubisoft ;November 14, 2007 ;November 16, 2007 ;NAN
+535;650.0; Assassin's Creed Ezio Trilogy ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+536;651.0; Assassin's Creed II ;20h ;28h ;38h ;28h ;   PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   Ubisoft Montreal ;   Ubisoft ;November 17, 2009 ;March 09, 2010 ;NAN
+537;654.0; Assassin's Creed II: Discovery ;3 Hours ;4½ Hours ;8 Hours ;4½ Hours ;   Mobile, Nintendo DS ;   Side-scroller ;   Griptonite Games ;   Ubisoft ;November 17, 2009 ;November 20, 2009 ;NAN
+538;655.0; Assassin's Creed III ;16 Hours ;31 Hours ;54½ Hours ;26½ Hours ;   PC, PlayStation 3, Wii U, Xbox 360 ;NAN;   Ubisoft ;   Ubisoft ;October 30, 2012 ;October 31, 2012 ;NAN
+539;656.0; Assassin's Creed III: Benedict Arnold DLC ;40 Mins ;49 Mins ;59 Mins ;46 Mins ;   Nintendo Switch, PC, PlayStation 3, PlayStation 4, Xbox 360 ;NAN;   Ubisoft ;   Ubisoft ;October 30, 2012 ;October 31, 2012 ;NAN
+540;657.0; Assassin's Creed III: Liberation ;8 Hours ;11½ Hours ;16½ Hours ;11 Hours ;   Nintendo Switch, PC, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One ;NAN;   Ubisoft Sofia ;   Ubisoft ;October 30, 2012 ;October 31, 2012 ;NAN
+541;658.0; Assassin's Creed III: The Tyranny of King Washington DLC ;5 Hours ;7 Hours ;9 Hours ;6½ Hours ;   Nintendo Switch, PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One ;NAN;   Ubisoft ;   Ubisoft ;February 20, 2013 ;NAN;NAN
+542;659.0; Assassin's Creed: Altair's Chronicles ;5 Hours ;5 Hours ;6 Hours ;5 Hours ;   Mobile, Nintendo DS ;   Action-adventure ;   Gameloft ;   Ubisoft ;February 05, 2008 ;NAN;NAN
+543;660.0; Assassin's Creed: Bloodlines ;6 Hours ;8 Hours ;15 Hours ;7½ Hours ;   PlayStation Portable ;NAN;NAN;   Ubisoft ;November 17, 2009 ;November 20, 2009 ;December 23, 2009 
+544;661.0; Assassin's Creed: Brotherhood ;15h ;25h ;43h ;24h ;   PC, OnLive, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;NAN;   Ubisoft ;November 16, 2010 ;November 19, 2010 ;NAN
+545;662.0; Assassin's Creed: Brotherhood - Copernicus Conspiracy DLC ;1½ Hours ;1½ Hours ;1½ Hours ;1½ Hours ;   PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   Ubisoft ;   Ubisoft ;November 16, 2010 ;November 19, 2010 ;NAN
+546;663.0; Assassin's Creed: Brotherhood - The Da Vinci Disappearance DLC ;2½ Hours ;2½ Hours ;3 Hours ;2½ Hours ;   PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   Ubisoft ;   Ubisoft ;March 08, 2011 ;March 08, 2011 ;NAN
+547;664.0; Assassin's Creed: Revelations ;13h ;21h ;35h ;19h ;   PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   Ubisoft Montreal ;   Ubisoft ;November 15, 2011 ;November 15, 2011 ;NAN
+548;666.0; Assassins Creed Brotherhood ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+549;667.0; Assault Heroes ;2 Hours ;3½ Hours ;7 Hours ;3 Hours ;   PlayStation 3, Xbox 360 ;   Top-down shooter ;   Wanako Studios ;NAN;December 13, 2006 ;December 13, 2006 ;NAN
+550;668.0; Assault Heroes 2 ;3 Hours ;4½ Hours ;-- ;4 Hours ;   Xbox 360 ;   Top-down shooter ;   Wanako Studios ;   Sierra Online ;May 14, 2008 ;May 14, 2008 ;NAN
+551;669.0; Assault Rigs ;7 Hours ;-- ;-- ;7 Hours ;   PlayStation ;   Action ;NAN;   Psygnosis ; 1996 ;NAN;NAN
+552;670.0; Assault: Retribution ;-- ;-- ;2½ Hours ;2½ Hours ;   PlayStation ;   Action ;   Candle Light Studios ;   Midway Games ;October 31, 1998 ;September 1998 ;NAN
+553;671.0; Astal ;1 Hours ;-- ;2 Hours ;2 Hours ;   Sega Saturn ;   Platformer ;   Sega ;   Sega ;April 27, 1995 ;NAN;April 28, 1995 
+554;672.0; Asterix (1993) ;1 Hours ;2½ Hours ;-- ;1 Hours ;   Game Boy, NES, Super Nintendo ;NAN;NAN;   Infogrames ;NAN; 1993 ;NAN
+555;674.0; Asterix and the Secret Mission ;-- ;-- ;2 Hours ;2 Hours ;   Sega Game Gear, Sega Master System ;NAN;   Sega ;   Sega ; 1993 ; 1993 ;NAN
+556;675.0; Asterix at the Olympic Games ;4½ Hours ;7 Hours ;14 Hours ;6½ Hours ;   PC, PlayStation 2, Xbox 360 ;NAN;   Etranges Libellules ;   Atari ;November 09, 2007 ;NAN;NAN
+557;676.0; Asteroids (1979) ;1 Hours ;1½ Hours ;3 Hours ;1½ Hours ;   Arcade, Atari 2600, Atari 5200, Atari 7800, Game Boy, PC, Plug & Play ;NAN;   Atari ;   Atari ;November 1979 ;NAN;NAN
+558;677.0; Astonishia Story ;15 Hours ;16½ Hours ;22½ Hours ;19 Hours ;   PlayStation Portable ;   Role-playing ;   Sonnori ;   Ubisoft (North America & Europe) ;June 27, 2006 ;June 30, 2006 ;September 28, 2006 
+559;678.0; Astral Masters ;-- ;-- ;-- ;-- ;NAN;   Card Game ;   Apus Software ;NAN; 2008 ;NAN;NAN
+560;679.0; Astro Boy (2004) ;4 Hours ;-- ;-- ;4 Hours ;   PlayStation 2 ;   Action ;   Sonic Team ;   Sega ;August 04, 2004 ;February 11, 2005 ;NAN
+561;680.0; Astro Boy: Omega Factor ;3 Hours ;6 Hours ;8 Hours ;5 Hours ;   Game Boy Advance ;   Beat 'em up ;NAN;   Sega ;August 18, 2004 ;February 18, 2005 ;December 18, 2003 
+562;681.0; Astro Tripper ;2 Hours ;-- ;5½ Hours ;3 Hours ;   PC, PlayStation 3 ;NAN;   PomPom Games ;   PomPom Games ;March 12, 2009 ;December 11, 2008 ;NAN
+563;682.0; Astro Warrior ;19 Mins ;-- ;-- ;19 Mins ;   Sega Master System ;NAN;   Sega ;   Sega ;December 1986 ;NAN;December 14, 1986 
+564;683.0; Astroblast ;5 Mins ;-- ;-- ;5 Mins ;   Atari 2600 ;   Shooter ;   Mattel ;   Mattel ; 1981 ; 1982 ;NAN
+565;684.0; Astronoka ;-- ;-- ;-- ;-- ;NAN;   Simulation ;NAN;NAN;NAN;NAN;August 27, 1998 
+566;685.0; AstroPop ;38 Mins ;-- ;-- ;38 Mins ;   PC ;   Puzzle ;   PopCap Games ;   PopCap Games ;April 06, 2004 ;NAN;NAN
+567;686.0; Astroslugs ;-- ;-- ;-- ;-- ;NAN;   Puzzle ;   Bit Barons ;NAN;January 27, 2011 ;NAN;NAN
+568;687.0; Asuka 120% Limited Burning Fest. ;1½ Hours ;-- ;-- ;1½ Hours ;NAN;   Fighting ;   Fill-in-Cafe ;   Ask Kodansha ;NAN;NAN;NAN
+569;688.0; Asura's Wrath ;7 Hours ;9 Hours ;14 Hours ;7½ Hours ;   PlayStation 3, PlayStation Now, Xbox 360, Xbox One ;NAN;   CyberConnect2 ;   Capcom ;February 21, 2012 ;February 24, 2012 ;February 22, 2012 
+570;689.0; Asura's Wrath: Episode 11.5 - Forging Ahead ;17 Mins ;18 Mins ;19 Mins ;18 Mins ;   PlayStation 3, Xbox 360 ;NAN;   CyberConnect2 ;   Capcom ;NAN;NAN;NAN
+571;690.0; Asura's Wrath: Episode 15.5 - Defiance ;15 Mins ;15 Mins ;16 Mins ;15 Mins ;   PC, PlayStation 3, Xbox 360 ;NAN;   CyberConnect2 ;   Capcom ;NAN;NAN;NAN
+572;691.0; Asura's Wrath: Episode Pack - Part IV ;2 Hours ;2½ Hours ;3½ Hours ;2 Hours ;   PlayStation 3, Xbox 360 ;NAN;   CyberConnect2 ;   Capcom ;NAN;April 24, 2012 ;NAN
+573;692.0; Asura's Wrath: Lost Episode 1 - At Last, Someone Angrier Than Me ;20 Mins ;28 Mins ;1 Hours ;26 Mins ;   PlayStation 3, Xbox 360 ;NAN;   CyberConnect2 ;   Capcom ;NAN;May 08, 2012 ;NAN
+574;693.0; Asura's Wrath: Lost Episode 2 - The Strongest vs. The Angriest ;18 Mins ;20 Mins ;2½ Hours ;25 Mins ;   PlayStation 3, Xbox 360 ;NAN;   CyberConnect2 ;   Capcom ;NAN;May 15, 2012 ;NAN
+575;694.0; Asylum ;-- ;-- ;-- ;-- ;NAN;   Adventure ;   William F. Denman Jr. ;   Med Systems ;NAN;NAN;NAN
+576;695.0; Atari Anthology ;-- ;-- ;-- ;NAN;   PlayStation 2 ;   Compilation ;   Digital Eclipse ;   Atari ;November 16, 2004 ;NAN;NAN
+577;696.0; Atari Classics Evolved ;-- ;-- ;-- ;-- ;NAN;   Arcade ;NAN;   Atari ; 2007 ;NAN;NAN
+578;698.0; Atelier Annie: Alchemists of Sera Island ;14 Hours ;18½ Hours ;-- ;15 Hours ;   Nintendo DS ;NAN;   Gust ;NAN;October 27, 2009 ;NAN;March 12, 2009 
+579;699.0; Atelier Ayesha: The Alchemist of Dusk ;23½ Hours ;36½ Hours ;38½ Hours ;33 Hours ;   PlayStation 3 ;   Role-Playing ;   Gust ;   Tecmo Koei ;March 05, 2013 ;March 08, 2013 ;June 28, 2012 
+580;700.0; Atelier Iris 2: The Azoth of Destiny ;29 Hours ;32 Hours ;46 Hours ;33 Hours ;   PlayStation 2 ;   RPG ;   Gust ;NAN;April 25, 2006 ;September 29, 2006 ;May 26, 2005 
+581;701.0; Atelier Iris 3: Grand Phantasm ;31½ Hours ;40½ Hours ;51 Hours ;40 Hours ;   PlayStation 2 ;   Role-playing ;   Gust ;NAN;May 29, 2007 ;July 27, 2007 ;June 29, 2006 
+582;702.0; Atelier Iris: Eternal Mana ;27½ Hours ;41½ Hours ;65½ Hours ;38½ Hours ;   PlayStation 2 ;   Role-Playing ;   Gust ;NAN;June 28, 2005 ;March 17, 2006 ;May 27, 2004 
+583;705.0; Atelier Meruru: The Apprentice of Arland ;30½ Hours ;39½ Hours ;69½ Hours ;36½ Hours ;   PlayStation 3, PlayStation Vita ;   Role-Playing ;   Gust ;   NIS America ;May 29, 2012 ;May 25, 2012 ;June 23, 2011 
+584;706.0; Atelier Rorona: The Alchemist of Arland ;19½ Hours ;30½ Hours ;66 Hours ;27 Hours ;   PlayStation 3 ;   Role-Playing ;   Gust ;NAN;September 28, 2010 ;October 22, 2010 ;June 25, 2009 
+585;707.0; Atelier Totori: The Adventurer of Arland ;23 Hours ;36½ Hours ;59 Hours ;35 Hours ;   PlayStation 3, PlayStation Vita ;NAN;   Gust ;NAN;September 27, 2011 ;September 30, 2011 ;June 24, 2010 
+586;708.0; Athena ;3½ Hours ;-- ;-- ;3½ Hours ;   NES ;   Platform ;   SNK ;   SNK ; 1986 ;NAN;NAN
+587;709.0; Atlantis: The Lost Tales ;7 Hours ;-- ;-- ;7 Hours ;   PC ;   Adventure ;   Cryo Interactive ;   Dreamcatcher Interactive ;September 30, 1997 ;NAN;NAN
+588;710.0; Atom Zombie Smasher ;4 Hours ;9½ Hours ;28½ Hours ;6 Hours ;   PC ;   Real-time strategy ;   Blendo Games ;NAN;March 14, 2011 ;March 14, 2011 ;NAN
+589;711.0; Atomic Betty ;2 Hours ;-- ;2½ Hours ;2½ Hours ;   Game Boy Advance ;NAN;   Big Blue Bubble ;NAN;October 25, 2005 ;August 25, 2005 ;NAN
+590;712.0; Atomic Bomberman ;12 Hours ;-- ;-- ;12 Hours ;   PC ;   Action ;   Interplay Entertainment ;   Interplay Entertainment ;July 31, 1997 ; 1997 ;NAN
+591;713.0; Atomic Punk ;2½ Hours ;-- ;-- ;2½ Hours ;   Game Boy ;NAN;   Hudson Soft ;   Hudson Soft ;May 05, 1991 ;NAN;NAN
+592;714.0; Atomic Runner ;59 Mins ;-- ;1 Hours ;1 Hours ;   Sega Mega Drive/Genesis ;NAN;   Data East ;NAN; 1988 ;NAN;January 1988 
+593;715.0; Attack of the Mutant Penguins ;-- ;-- ;-- ;-- ;NAN;NAN;   Sunrise Games ;   Atari ;March 01, 1996 ;December 25, 1995 ;NAN
+594;716.0; ATV Offroad Fury ;4 Hours ;-- ;-- ;4 Hours ;   PlayStation 2 ;   Racing ;   Rainbow Studios ;   Sony Computer Entertainment ;February 05, 2001 ;NAN;NAN
+595;717.0; ATV Offroad Fury 2 ;11½ Hours ;15 Hours ;15 Hours ;14½ Hours ;   PlayStation 2 ;   Racing ;   Rainbow Studios ;   Sony Computer Entertainment America ;November 09, 2002 ;October 03, 2003 ;NAN
+596;718.0; ATV Offroad Fury 3 ;11½ Hours ;-- ;-- ;11½ Hours ;   PlayStation 2 ;   Racing ;   Climax Studios ;   Sony Computer Entertainment ;November 02, 2004 ;NAN;NAN
+597;719.0; ATV Offroad Fury 4 ;6½ Hours ;20 Hours ;-- ;9½ Hours ;   PlayStation 2 ;   Racing ;   Climax Racing ;   Sony Computer Entertainment America ;October 31, 2006 ;NAN;NAN
+598;721.0; ATV Quad Power Racing 2 ;7 Hours ;-- ;-- ;7 Hours ;   Nintendo GameCube, PlayStation 2, Xbox ;   Racing ;   Climax Brighton ;   Acclaim Entertainment ;January 27, 2003 ;NAN;NAN
+599;722.0; ATV: Quad Power Racing ;5 Hours ;-- ;-- ;5 Hours ;NAN;   Racing ;NAN;   Acclaim Entertainment ;August 23, 2000 ;October 13, 2000 ;December 21, 2000 
+600;723.0; Audiosurf ;8 Hours - 12 Hours ;-- ;25 Hours ;NAN;   PC ;NAN;   Dylan Fitterer ;NAN;February 15, 2008 ;February 15, 2008 ;NAN
+601;724.0; Auditorium ;3 Hours ;4 Hours ;5 Hours ;3½ Hours ;   PC ;NAN;   Cipher Prime Studios ;   Cipher Prime Studios ;January 30, 2009 ;January 30, 2009 ;NAN
+602;725.0; Auditorium HD ;-- ;-- ;-- ;-- ;NAN;NAN;   Cipher Prime Studios ;   Cipher Prime Studios ;November 23, 2010 ;November 23, 2010 ;NAN
+603;726.0; Aura-Aura Climber ;53 Mins ;3 Hours ;-- ;2 Hours ;   Nintendo 3DS, Nintendo DS ;NAN;   NST ;   Nintendo ;February 22, 2010 ;October 01, 2010 ;November 10, 2010 
+604;727.0; Aura: Fate of the Ages ;5½ Hours ;5½ Hours ;6 Hours ;5½ Hours ;   PC ;   Adventure ;   Streko-Graphics Inc. ;   The Adventure Company ;June 29, 2004 ;NAN;NAN
+605;728.0; Auralux ;6 Hours ;6 Hours ;-- ;6 Hours ;   Mobile ;NAN;   E. McNeill ;NAN; 2011 ;NAN;NAN
+606;729.0; Aurora Watching ;10 Hours ;-- ;-- ;10 Hours ;   PC ;NAN;NAN;   Enlight ;May 23, 2006 ;August 05, 2005 ;NAN
+607;730.0; Austin Powers Pinball ;-- ;-- ;-- ;-- ;NAN;   Strategy ;   Wildfire Studios ;   Gotham Games ;October 25, 2002 ;October 25, 2002 ;NAN
+608;731.0; Auto Modellista ;3½ Hours ;4½ Hours ;6 Hours ;4 Hours ;   Nintendo GameCube, PlayStation 2, Xbox ;   Racing/Driving ;   Capcom Production Studio 1 ;   Capcom ;March 25, 2003 ;December 06, 2002 ;August 22, 2002 
+609;732.0; Autoduel ;15 Hours ;24 Hours ;-- ;19½ Hours ;   PC ;   Role-Playing ;   Origin Systems ;   Origin Systems ; 1985 ;NAN;NAN
+610;733.0; Automobili Lamborghini ;3 Hours ;-- ;8 Hours ;3 Hours ;   Nintendo 64 ;   Racing ;   Titus Software ;   Titus Software ;November 30, 1997 ;December 01, 1997 ;NAN
+611;734.0; Autonomous ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+612;735.0; Autonomous Prototype ;51 Mins ;-- ;1½ Hours ;56 Mins ;   PC ;NAN;   Double Fine ;   Double Fine ;NAN;NAN;NAN
+613;736.0; Avadon: The Black Fortress ;40 Hours ;53½ Hours ;81½ Hours ;53 Hours ;   Mobile, PC ;   Role-playing ;   Spiderweb Software ;NAN;February 28, 2011 ;NAN;NAN
+614;738.0; Avatar Drop ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;September 03, 2009 ;NAN;NAN
+615;739.0; Avatar Fight ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+616;740.0; Avatar Showdown ;-- ;-- ;-- ;-- ;NAN;   Fighting ;   JForce ;NAN;February 24, 2010 ;NAN;NAN
+617;741.0; Avatar: The Last Airbender ;6½ Hours ;7 Hours ;7½ Hours ;7 Hours ;   Game Boy Advance, Nintendo DS, Nintendo GameCube, PC, PlayStation 2, PlayStation Portable, Wii, Xbox, Xbox 360 ;NAN;NAN;   THQ ;October 10, 2006 ;February 09, 2007 ;NAN
+618;742.0; Avatar: The Last Airbender - The Burning Earth ;5 Hours ;5 Hours ;5½ Hours ;5 Hours ;   Game Boy Advance, Nintendo DS, PlayStation 2, Wii, Xbox 360 ;NAN;NAN;   THQ ;October 16, 2007 ;October 26, 2007 ;NAN
+619;745.0; Avernum ;39 Hours ;96 Hours ;128 Hours ;92 Hours ;   PC ;   Role-Playing ;   Spiderweb Software ;NAN;NAN;NAN;NAN
+620;747.0; Avernum 4 ;-- ;64 Hours ;66½ Hours ;66 Hours ;   PC ;NAN;   Spiderweb Software ;   Spiderweb Software ;March 02, 2006 ;NAN;NAN
+621;748.0; Avernum 5 ;60 Hours ;61 Hours ;79 Hours ;63½ Hours ;   PC ;NAN;   Spiderweb Software ;   Spiderweb Software ;November 12, 2007 ;NAN;NAN
+622;749.0; Avernum 6 ;-- ;63½ Hours ;66 Hours ;65 Hours ;   PC ;NAN;   Spiderweb Software ;   Spiderweb Software ; 2009 ;NAN;NAN
+623;750.0; Avernum: Escape from the Pit ;41 Hours ;59½ Hours ;83½ Hours ;61½ Hours ;   Mobile, PC ;   Role-Playing ;   Spiderweb Software ;NAN;December 2011 ;NAN;NAN
+624;751.0; Avoid the Noid ;-- ;-- ;-- ;-- ;NAN;   Platform ;NAN;   ShareData ; 1989 ;NAN;NAN
+625;753.0; Away: Shuffle Dungeon ;15 Hours ;16½ Hours ;28 Hours ;20 Hours ;   Nintendo DS ;NAN;NAN;NAN;October 30, 2008 ;April 10, 2009 ;October 16, 2008 
+626;754.0; AWESOME Land ;2½ Hours ;-- ;-- ;2½ Hours ;NAN;   Platform ;   AWESOME Land FreakZone Games ;NAN;NAN;NAN;NAN
+627;755.0; Awesome Possum... Kicks Dr. Machino's Butt ;4 Hours ;-- ;-- ;4 Hours ;NAN;   Platform ;   Tengen ;   Tengen ;November 25, 1993 ;NAN;NAN
+628;756.0; Awesomenauts ;11½ Hours - 300 Hours ;83 Hours ;129 Hours ;NAN;   PC, PlayStation 3, Xbox 360 ;NAN;   Ronimo Games ;   dtp Entertainment ;May 02, 2012 ;NAN;NAN
+629;757.0; Ax Battler: A Legend of Golden Axe ;2 Hours ;-- ;-- ;2 Hours ;   Sega Game Gear ;NAN;   Aspect ;   Sega ; 1991 ; 1991 ; 1991 
+630;758.0; Axel & Pixel ;3 Hours ;3 Hours ;5 Hours ;3½ Hours ;   PC, Xbox 360 ;NAN;   Silver Wish Games ;   2K Play ;October 14, 2009 ;October 14, 2009 ;NAN
+631;759.0; Axelay ;1½ Hours ;1½ Hours ;1½ Hours ;1½ Hours ;   Super Nintendo, Wii U ;   Scrolling shooter ;   Konami ;   Konami ;September 1992 ;September 30, 1993 ;September 11, 1992 
+632;760.0; Ayrton Senna's Super Monaco GP II ;4 Hours ;5 Hours ;8 Hours ;5½ Hours ;   Sega Game Gear, Sega Mega Drive/Genesis ;   Racing ;   Sega ;   Sega ;July 16, 1992 ; 1992 ;July 17, 1992 
+633;761.0; Azada ;-- ;-- ;7 Hours ;7 Hours ;   Mobile, PC ;   Puzzle ;   Big Fish Studios ;   Big Fish Games ;NAN;NAN;NAN
+634;763.0; Azrael's Tear ;9½ Hours ;-- ;-- ;9½ Hours ;   PC ;   Role-Playing ;   Intelligent Games ;   Mindscape ; 1996 ;NAN;NAN
+635;765.0; Aztec Adventure ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+636;766.0; Aztec Adventure: The Golden Road to Paradise ;-- ;-- ;-- ;-- ;   Sega Master System ;   Strategy/Tactical ;   Sega ;   Sega ;March 1988 ; 1988 ;September 20, 1987 
+637;767.0; Azure Dreams ;30 Hours ;34½ Hours ;42 Hours ;34½ Hours ;   Game Boy Color, PlayStation ;NAN;   Konami ;   Konami ;June 30, 1998 ;NAN;NAN
+638;768.0; Azurik: Rise of Perathia ;28 Hours ;42½ Hours ;-- ;33 Hours ;   Xbox ;NAN;   Adrenium Games ;   Microsoft Game Studios ;November 25, 2001 ;May 17, 2002 ;NAN
+639;769.0; B-17 Flying Fortress: The Mighty 8th ;-- ;-- ;-- ;-- ;   PC ;NAN;   Wayward Design ;   MicroProse/Hasbro Interactive ; 2000 ;NAN;NAN
+640;770.0; B. Rap Boys! ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+641;771.0; B.O.B. ;4 Hours ;4 Hours ;7 Hours ;4½ Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;NAN;NAN;   Electronic Arts ;June 1993 ;NAN;December 22, 1993 
+642;772.0; B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+643;773.0; Babel Rising ;2½ Hours ;4½ Hours ;7½ Hours ;4½ Hours ;   PC, Xbox 360 ;   Tower Defense ;NAN;NAN;NAN;NAN;NAN
+644;774.0; Back to the Future (1989) ;1½ Hours ;2 Hours ;2½ Hours ;2 Hours ;   NES ;NAN;   Beam Software ;   LJN Toys ;September 1989 ;NAN;NAN
+645;775.0; Back to the Future II ;3 Hours ;-- ;-- ;3 Hours ;   Sega Master System ;   Action ;   Arena Entertainment ;   Image Works ;April 08, 1990 ;NAN;NAN
+646;776.0; Back to the Future II & III ;2 Hours ;-- ;2 Hours ;2 Hours ;   NES ;NAN;   Beam Software Pty. ;   LJN ;September 1990 ;NAN;NAN
+647;777.0; Back to the Future Part III ;20 Mins ;-- ;45 Mins ;26 Mins ;   Amiga, Sega Master System, Sega Mega Drive/Genesis ;NAN;   Probe Software ;NAN; 1991 ;NAN;NAN
+648;778.0; Back to the Future: The Game ;12 Hours - 13½ Hours ;NAN;NAN;NAN;   Mobile, PC, PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One ;NAN;   Telltale Games ;   Telltale Games ;December 22, 2010 ;NAN;NAN
+649;779.0; Back to the Future: The Game - Episode 3: Citizen Brown ;2½ Hours ;2½ Hours ;2½ Hours ;2½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   Telltale Games ;   Telltale Games ;March 28, 2011 ;NAN;NAN
+650;780.0; Back to the Future: The Game - Episode 4: Double Visions ;2½ Hours ;2½ Hours ;3 Hours ;2½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   Telltale Games ;   Telltale Games ;April 29, 2011 ;NAN;NAN
+651;781.0; Back to the Future: The Game - Episode 2: Get Tannen! ;2 Hours ;2½ Hours ;2½ Hours ;2½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;   Adventure ;   Telltale Games ;   Telltale Games ;February 16, 2011 ;NAN;NAN
+652;782.0; Back to the Future: The Game - Episode 1: It's About Time ;2½ Hours ;3 Hours ;3 Hours ;2½ Hours ;   Mobile, PC, PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One ;NAN;   Telltale Games ;   Telltale Games ;December 22, 2010 ;December 23, 2010 ;NAN
+653;783.0; Back to the Future: The Game - Episode 5: Outatime ;2½ Hours ;2½ Hours ;2½ Hours ;2½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   Telltale Games ;   Telltale Games ;June 23, 2011 ;June 23, 2011 ;NAN
+654;785.0; Backyard Baseball ;7 Hours ;-- ;-- ;7 Hours ;   Game Boy Advance, Nintendo GameCube, PC, PlayStation 2 ;   Sports ;   Humongous Entertainment ;   Humongous Entertainment ;May 30, 2002 ;NAN;NAN
+655;786.0; Backyard Baseball 2001 ;-- ;-- ;21 Hours ;21 Hours ;   PC ;   Sports ;NAN;   Humongous Entertainment ;May 19, 2000 ;NAN;NAN
+656;788.0; Backyard Soccer ;5 Hours ;-- ;7½ Hours ;6 Hours ;   PC, PlayStation ;   Sports ;   Humongous Entertainment ;   Infogrames ;September 28, 2001 ;November 23, 2001 ;NAN
+657;789.0; Backyard Wrestling 2: There Goes the Neighborhood ;-- ;-- ;-- ;-- ;   PlayStation 2 ;   Sports ;   Paradox Development ;   Eidos Interactive ;November 16, 2004 ;November 19, 2004 ;April 07, 2005 
+658;790.0; Backyard Wrestling: Don't Try This at Home ;3½ Hours ;-- ;-- ;3½ Hours ;   PlayStation 2, Xbox ;   Sports ;   Paradox Development ;   Eidos Interactive ;October 07, 2003 ;November 07, 2003 ;April 15, 2004 
+659;791.0; Bad Day L.A. ;4½ Hours ;5½ Hours ;7 Hours ;5 Hours ;   PC ;   Action-adventure ;   Aspyr Media ;NAN;September 06, 2006 ;November 24, 2006 ;NAN
+660;793.0; Bad Mojo ;3 Hours ;4½ Hours ;5 Hours ;4 Hours ;   PC ;NAN;   Pulse Entertainment ;   Acclaim Entertainment ;February 29, 1996 ;NAN;NAN
+661;794.0; Bad News Baseball ;3 Hours ;-- ;-- ;3 Hours ;   NES ;   Sports ;   Tecmo ;   Tecmo ; 1990 ;NAN;December 15, 1989 
+662;795.0; Bad Piggies ;7½ Hours ;8 Hours ;9 Hours ;8 Hours ;   Mobile, PC ;   Puzzle ;   Rovio Entertainment ;   Rovio Entertainment ;NAN;NAN;NAN
+663;797.0; Bad Rats: the Rats' Revenge ;3½ Hours ;4 Hours ;5 Hours ;4 Hours ;   PC ;   Puzzle ;   Invent4 Entertainment ;   Strategy First ;July 20, 2009 ;NAN;NAN
+664;798.0; Bad Street Brawler ;50 Mins ;1 Hours ;-- ;56 Mins ;   NES ;   Beat 'em Up ;   Beam Software ;   Mindscape ; 1987 ;NAN;NAN
+665;800.0; Bagfull of Wrong ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+666;801.0; Bahamut Lagoon ;31 Hours ;31½ Hours ;32½ Hours ;31 Hours ;   Super Nintendo ;NAN;   Square ;   Square ;NAN;NAN;February 09, 1996 
+667;802.0; Bakemonogatari Portable ;-- ;-- ;9½ Hours ;9½ Hours ;NAN;   Visual Novel ;   Namco Bandai Games ;   Namco Bandai Games ;NAN;NAN;August 23, 2012 
+668;803.0; Baku Baku ;40 Mins ;1½ Hours ;2½ Hours ;1½ Hours ;   Arcade, Sega Game Gear, Sega Saturn ;   Puzzle ;   Sega ;   Sega ; 1995 ;NAN;NAN
+669;804.0; Bakugan Battle Brawlers ;9 Hours ;27½ Hours ;46½ Hours ;18 Hours ;   Nintendo DS, PlayStation 2, PlayStation 3, Wii, Xbox 360 ;   Action ;   Now Production ;   Activision ;October 20, 2009 ;October 23, 2009 ;NAN
+670;805.0; Bakuretsu Hunters ;5 Hours ;-- ;-- ;5 Hours ;NAN;   Adventure ;NAN;   I'MAX ;NAN;NAN;NAN
+671;806.0; Balance of Power ;-- ;-- ;-- ;-- ;NAN;   Simulation ;   Chris Crawford ;   Mindscape ;September 1985 ;NAN;NAN
+672;807.0; Balate - The Last Kingdom ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+673;808.0; Baldur's Gate ;44 Hours ;56½ Hours ;105 Hours ;59 Hours ;   Mobile, PC ;NAN;   BioWare ;NAN;November 30, 1998 ;NAN;NAN
+674;809.0; Baldur's Gate II: Enhanced Edition ;47 Hours ;80 Hours ;140 Hours ;81 Hours ;   Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One ;   Role-Playing ;   Overhaul Games ;   Atari ;November 15, 2013 ;NAN;NAN
+675;810.0; Baldur's Gate II: Shadows of Amn ;68½ Hours ;87½ Hours ;139 Hours ;90½ Hours ;   PC ;NAN;   BioWare ;NAN;September 24, 2000 ;NAN;NAN
+676;811.0; Baldur's Gate II: Throne of Bhaal ;20 Hours ;25½ Hours ;47 Hours ;28 Hours ;   PC ;NAN;   BioWare ;   Black Isle Studios ;June 21, 2001 ;NAN;NAN
+677;812.0; Baldur's Gate: Dark Alliance ;12½ Hours ;16½ Hours ;19 Hours ;15 Hours ;   Game Boy Advance, Nintendo GameCube, Nintendo Switch, PlayStation 2, PlayStation 4, Xbox ;NAN;NAN;NAN;December 02, 2001 ;December 14, 2001 ;September 26, 2002 
+678;813.0; Baldur's Gate: Dark Alliance II ;12 Hours ;15½ Hours ;62½ Hours ;19 Hours ;   PlayStation 2, Xbox ;   Role-playing ;NAN;   Interplay Entertainment ;January 20, 2004 ;NAN;NAN
+679;815.0; Baldur's Gate: Tales of the Sword Coast ;11 Hours ;14 Hours ;20 Hours ;15 Hours ;   PC ;NAN;   BioWare ;NAN;April 30, 1999 ;NAN;NAN
+680;816.0; Baldur's Gate: The Original Saga ;-- ;76½ Hours ;133 Hours ;91 Hours ;   PC ;   Role-Playing ;NAN;NAN; 2000 ;NAN;NAN
+681;817.0; Ball of Woe ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+682;818.0; Ballad of an Evening Butterfly ;-- ;-- ;-- ;-- ;NAN;   Visual Novel ;   ZIGZAG ;   Deja Vu ;NAN;December 14, 2007 ;May 19, 2006 
+683;819.0; Ballance ;5 Hours ;-- ;-- ;5 Hours ;   PC ;   Puzzle ;   Cyparade ;   Atari ;October 25, 2006 ;April 02, 2004 ;NAN
+684;820.0; Ballistic ;-- ;-- ;-- ;-- ;   PC ;   Puzzle ;   Mitchell Corporation ;   Infogrames ;NAN;NAN; 1998 
+685;822.0; Balloon Fight ;46 Mins ;1 Hours ;2 Hours ;56 Mins ;   Game Boy Advance, NES, Nintendo 3DS, Nintendo Switch, Wii, Wii U ;NAN;   Nintendo R&D1 ;   Nintendo ; 1984 ;March 12, 1987 ;January 22, 1985 
+686;823.0; Balloon Kid ;1 Hours ;1 Hours ;1½ Hours ;1 Hours ;   Game Boy, Game Boy Color ;NAN;NAN;   Nintendo ;October 05, 1990 ;January 31, 1991 ;July 31, 2000 
+687;824.0; Balls of Steel ;59 Mins ;30 Hours ;-- ;15½ Hours ;   PC ;   Pinball ;   Wildfire Studios ;   Apogee Software ;December 12, 1997 ;NAN;NAN
+688;825.0; Ballz 3D ;2 Hours ;4½ Hours ;15½ Hours ;5½ Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;   Fighting ;   PF Magic ;   Accolade ; 1994 ; 1994 ;NAN
+689;826.0; Banana Prince ;2 Hours ;-- ;-- ;2 Hours ;   NES ;   Platform ;   KID ;   Takara ;NAN;February 1992 ;December 20, 1991 
+690;828.0; Band of Bugs ;4½ Hours ;5 Hours ;-- ;5 Hours ;   PC, Xbox 360 ;NAN;   NinjaBee ;   Microsoft Game Studios ;June 20, 2007 ;NAN;NAN
+691;829.0; Bandai Golf: Challenge Pebble Beach ;1 Hours ;-- ;-- ;1 Hours ;   NES ;   Sports ;   TOSE ;   Bandai ;February 1989 ;NAN;NAN
+692;830.0; Bang Bang Racing ;3½ Hours ;3½ Hours ;5 Hours ;3½ Hours ;   PC, PlayStation 3, Xbox 360 ;   Racing ;NAN;   Digital Reality ;May 13, 2011 ;May 13, 2011 ;NAN
+693;831.0; Bangai-O ;5½ Hours ;-- ;8 Hours ;6½ Hours ;   Dreamcast, Nintendo 64 ;   Shoot 'em Up ;   Treasure ;   Various ;March 21, 2001 ;October 20, 2000 ;September 03, 1999 
+694;832.0; Bangai-O HD: Missile Fury ;-- ;-- ;-- ;-- ;NAN;   Shooter ;   TREASURE ;NAN;May 04, 2011 ;May 04, 2011 ;NAN
+695;834.0; Banjo-Kazooie ;11 Hours ;14 Hours ;14½ Hours ;13½ Hours ;   Nintendo 64, PC, Xbox 360, Xbox One ;NAN;   Rare ;   Nintendo ;June 30, 1998 ;July 17, 1998 ;NAN
+696;835.0; Banjo-Kazooie: Grunty's Revenge ;4½ Hours ;5½ Hours ;6 Hours ;5½ Hours ;   Game Boy Advance, Nintendo DS ;   Platformer ;   Rareware ;   THQ ;September 12, 2003 ;October 24, 2003 ;NAN
+697;836.0; Banjo-Kazooie: Nuts & Bolts ;15½ Hours ;23 Hours ;47 Hours ;23½ Hours ;   Xbox 360, Xbox One ;NAN;   Rare ;   Microsoft Game Studios ;November 11, 2008 ;November 14, 2008 ;December 11, 2008 
+698;837.0; Banjo-Tooie ;16 Hours ;22½ Hours ;23½ Hours ;22½ Hours ;   Nintendo 64, Xbox 360 ;NAN;   Rare ;   Nintendo ;November 20, 2000 ;April 12, 2001 ;NAN
+699;838.0; Bank Panic ;15 Mins ;-- ;-- ;15 Mins ;   Arcade, SG-1000 ;NAN;   Sanritsu ;   Sega ; 1984 ;NAN;NAN
+700;839.0; Bankshot Billiards 2 ;-- ;-- ;-- ;-- ;   Xbox 360 ;   Sports ;   PixelStorm ;   PixelStorm ;November 22, 2005 ;NAN;NAN
+701;840.0; Barbarian (2002) ;-- ;20 Hours ;-- ;20 Hours ;   PlayStation 2 ;   Fighting ;   Saffire ;   Titus Software ;June 27, 2002 ;NAN;April 03, 2003 
+702;841.0; Barbie (1991) ;37 Mins ;39 Mins ;1 Hours ;55 Mins ;   NES ;NAN;   Imagineering ;   Hi Tech Expressions ;December 31, 1991 ; 1992 ;NAN
+703;842.0; Barbie: Jet, Set & Style! ;-- ;-- ;7½ Hours ;7½ Hours ;   Nintendo DS ;NAN;   THQ ;   THQ ;September 19, 2011 ;NAN;NAN
+704;843.0; Barely Floating ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+705;844.0; Barkley, Shut Up and Jam: Gaiden ;5 Hours ;6½ Hours ;7½ Hours ;6 Hours ;   PC ;   Role-Playing ;   Tales of Game's Studios ;NAN;January 22, 2008 ;NAN;NAN
+706;845.0; Barnstorming ;5 Mins ;-- ;15 Mins ;5 Mins ;   Atari 2600 ;NAN;   Activision ;   Activision ; 1982 ;NAN;NAN
+707;846.0; Barnyard Blaster ;-- ;-- ;-- ;-- ;NAN;   Action ;   K-Byte ;   Atari ;NAN;NAN;NAN
+708;847.0; Baroque ;11 Hours ;14 Hours ;-- ;12½ Hours ;   PlayStation 2, Wii ;NAN;   Sting Entertainment ;NAN;April 08, 2008 ;July 18, 2008 ;June 28, 2007 
+709;849.0; Barrow Hill: Curse of the Ancient Circle ;3½ Hours ;5 Hours ;7½ Hours ;5 Hours ;   PC ;NAN;   Shadow Tor Studios ;   Shadow Tor Studios ;April 16, 2006 ;NAN;NAN
+710;850.0; Barrr ;-- ;-- ;-- ;-- ;NAN;   Simulation ;   Firedroid ;NAN;NAN;NAN;NAN
+711;851.0; Bart Simpson's Escape from Camp Deadly ;2 Hours ;-- ;2½ Hours ;2 Hours ;   Game Boy ;NAN;   Imagineering ;   Acclaim ;November 01, 1991 ; 1993 ;February 26, 1993 
+712;852.0; The Simpsons: Bart's Nightmare ;2½ Hours ;3½ Hours ;5 Hours ;3½ Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;NAN;   Sculptured Software ;   Acclaim ;September 1992 ;February 18, 1993 ;February 26, 1993 
+713;853.0; Barver Battle Saga: The Space Fighter ;20 Hours ;-- ;52½ Hours ;33½ Hours ;   Sega Mega Drive/Genesis ;   Role-Playing ;NAN;NAN;NAN;NAN;NAN
+714;854.0; Baseball (1989) ;1½ Hours ;-- ;3 Hours ;2½ Hours ;   Game Boy ;   Sports ;   Nintendo ;   Nintendo ; 1989 ;NAN;NAN
+715;855.0; baseball heroes ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+716;856.0; Baseball Simulator 1.000 ;-- ;-- ;-- ;NAN;NAN;   Sports ;   Culture Brain ;   Culture Brain ;March 1990 ;NAN;NAN
+717;857.0; Baseball Stars ;22 Hours ;-- ;-- ;22 Hours ;   NES ;   Sports ;   SNK ;   SNK ;July 1989 ;NAN;May 19, 1989 
+718;858.0; Baseball Stars 2 ;9 Hours ;-- ;-- ;9 Hours ;   Neo Geo, NES, PC ;   Sports ;   Eikichi Kawasaki ;   SNK ; 1992 ;NAN;NAN
+719;859.0; Bases Loaded ;-- ;-- ;NAN;NAN;   NES ;   Sports ;NAN;   Jaleco ;July 1988 ;NAN;June 26, 1987 
+720;860.0; Bases Loaded '96 Double Header ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+721;861.0; Bases Loaded 3 ;3 Hours ;-- ;-- ;3 Hours ;   NES ;   Sports ;   TOSE ;   Jaleco ;NAN;NAN;NAN
+722;862.0; Bases Loaded 4 ;-- ;-- ;-- ;-- ;   NES ;   Sports ;   TOSE ;   Jaleco ;April 01, 1993 ;NAN;NAN
+723;863.0; Bases Loaded II: Second Season ;9½ Hours ;-- ;-- ;9½ Hours ;   NES ;   Sports ;   TOSE ;   Jaleco ;January 1990 ;NAN;NAN
+724;864.0; Basketball Shoot ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+725;865.0; BasketBelle ;42 Mins ;54 Mins ;1 Hours ;47 Mins ;   PC ;NAN;   Studio Bean ;   Studio Bean ;December 09, 2014 ;December 09, 2014 ;NAN
+726;866.0; Basketbrawl ;-- ;-- ;-- ;-- ;NAN;NAN;   Atari ;   Atari ; 1990 ;NAN;NAN
+727;867.0; Bass Pro Shops: The Strike ;12 Hours ;20½ Hours ;-- ;16 Hours ;   Wii ;   Sports ;   Piranha Games ;NAN;October 06, 2009 ;NAN;NAN
+728;868.0; Bastard!! ;-- ;-- ;-- ;-- ;   Super Nintendo ;NAN;NAN;   Cobra Team ;NAN;NAN;NAN
+729;869.0; Bastion ;6 Hours ;9 Hours ;20½ Hours ;8 Hours ;   Mobile, PC, Nintendo Switch, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One ;NAN;   Supergiant Games ;   Warner Bros. Interactive Entertainment ;July 20, 2011 ;August 16, 2011 ;NAN
+730;870.0; Baten Kaitos Origins ;42½ Hours ;63½ Hours ;127 Hours ;61 Hours ;   Nintendo DS, Nintendo GameCube ;   Role-Playing ;NAN;   Nintendo ;September 25, 2006 ;NAN;February 23, 2006 
+731;871.0; Baten Kaitos: Eternal Wings and the Lost Ocean ;54½ Hours ;59½ Hours ;131 Hours ;59 Hours ;   Nintendo GameCube, Wii ;   Role-Playing ;NAN;NAN;November 16, 2004 ;NAN;December 05, 2003 
+732;873.0; Batman & Robin ;12 Hours ;30 Hours ;-- ;19 Hours ;   PlayStation ;NAN;   Probe Entertainment ;   Acclaim ;July 31, 1998 ;August 1998 ;NAN
+733;876.0; batman arkham city ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+734;878.0; Batman Beyond: Return of the Joker ;1 Hours ;1½ Hours ;-- ;1 Hours ;   Game Boy Color, Nintendo 64, PlayStation ;   Scrolling Shooter ;   Kemco ;   Ubisoft ;November 20, 2000 ;NAN;NAN
+735;879.0; Batman Forever ;3 Hours ;-- ;4 Hours ;3 Hours ;   Game Boy, Sega Mega Drive/Genesis, Super Nintendo ;   Beat 'em up ;NAN;   Acclaim ; 1995 ; 1995 ;NAN
+736;880.0; Batman Returns ;2h ;2h ;3h ;2h ;   Atari Lynx, NES, Sega Game Gear, Sega Master System, Sega Mega Drive/Genesis, Super Nintendo ;NAN;   Various ;NAN;December 15, 1992 ; 1992 ;February 19, 1993 
+737;881.0; Batman: Arkham Asylum ;12 Hours ;16½ Hours ;25½ Hours ;15 Hours ;   OnLive, PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   Rocksteady Studios ;NAN;August 25, 2009 ;August 28, 2009 ;January 14, 2010 
+738;882.0; Batman: Arkham City ;12½ Hours ;21½ Hours ;46 Hours ;18 Hours ;   OnLive, PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One ;NAN;   Rocksteady Studios ;   Warner Bros. Interactive Entertainment ;October 18, 2011 ;October 21, 2011 ;NAN
+739;883.0; Batman: Arkham City - Harley Quinn's Revenge ;2 Hours ;2 Hours ;2 Hours ;2 Hours ;   PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One ;NAN;   Rocksteady Studios ;   Warner Bros. Interactive Entertainment ;May 29, 2012 ;NAN;NAN
+740;884.0; Batman: Arkham City Armored Edition ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+741;885.0; Batman: Return of the Joker ;52 Mins ;2 Hours ;2½ Hours ;1 Hours ;   Game Boy, NES ;   Action ;   Sunsoft ;NAN;December 1991 ;November 19, 1992 ;December 20, 1991 
+742;887.0; Batman: The Brave and the Bold ;4½ Hours ;5 Hours ;5 Hours ;5 Hours ;   Nintendo DS, Wii ;NAN;   WayForward Technologies ;NAN;September 07, 2010 ;NAN;NAN
+743;888.0; Batman: The Video Game ;1h ;2h ;3h ;1h ;   Arcade, Game Boy, NES, Sega Mega Drive/Genesis, TurboGrafx-16 ;NAN;   Sunsoft ;   Sunsoft ; 1990 ; 1990 ;NAN
+744;889.0; Batman: The Videogame ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+745;890.0; Batman: Vengeance ;8 Hours ;9 Hours ;9½ Hours ;8½ Hours ;   Game Boy Advance, Nintendo GameCube, PC, PlayStation 2 ;NAN;   Ubisoft ;   Ubisoft ;October 15, 2001 ;NAN;NAN
+746;891.0; Battalion Wars ;6½ Hours ;9 Hours ;-- ;7½ Hours ;   Nintendo GameCube ;NAN;   Kuju Entertainment ;   Nintendo ;September 19, 2005 ;December 09, 2005 ;NAN
+747;892.0; Battalion Wars 2 ;9½ Hours ;-- ;-- ;9½ Hours ;   Nintendo GameCube, Wii ;NAN;   Kuju Entertainment ;   Nintendo ;October 29, 2007 ;February 15, 2008 ;NAN
+748;893.0; Battle Arena Toshinden ;33 Mins ;1 Hours ;2 Hours ;41 Mins ;   Game Boy, PC, PlayStation ;   Fighting ;   Tamsoft ;   TAKARA ;September 01, 1995 ;NAN;NAN
+749;894.0; Battle Arena Toshinden 2 ;27 Mins ;-- ;7½ Hours ;1½ Hours ;   PC, PlayStation ;   Fighting ;   Tamsoft ;   Playmates Interactive ;NAN;NAN; 1995 
+750;895.0; Battle Arena Toshinden 3 ;20 Mins ;30 Mins ;1 Hours ;22 Mins ;   PlayStation ;   Fighting ;NAN;NAN;January 31, 1997 ;NAN;December 27, 1996 
+751;896.0; Battle Arena Toshinden Remix ;24 Mins ;5 Hours ;-- ;2 Hours ;   Sega Saturn ;   Fighting ;   Takara ;NAN; 1996 ;NAN;NAN
+752;897.0; Battle B-Daman: Fire Spirits! ;-- ;-- ;-- ;-- ;   Game Boy Advance ;   Fighting ;NAN;   Atlus ;NAN;NAN;NAN
+753;898.0; Battle Bakraid ;43 Mins ;-- ;-- ;43 Mins ;   Arcade ;NAN;   Raizing ;NAN;April 07, 1999 ;NAN;NAN
+754;899.0; Battle Balls ;59 Mins ;1 Hours ;1½ Hours ;1 Hours ;NAN;   Puzzle ;   Seibu Kaihatsu ;   Seibu Kaihatsu ; 1995 ;NAN; 1995 
+755;900.0; Battle Bears Royale ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+756;901.0; Battle Blaze ;-- ;-- ;-- ;-- ;NAN;   Fighting ;NAN;   Sammy ; 1993 ;NAN;May 01, 1992 
+757;902.0; Battle Cars ;3½ Hours ;-- ;-- ;3½ Hours ;   Super Nintendo ;NAN;   Malibu Interactive ;   Namco ;December 1993 ;NAN;NAN
+758;903.0; Battle Chess ;1½ Hours ;-- ;10 Hours ;2 Hours ;   Amiga, PC, NES ;   Chess ;NAN;   Interplay ; 1988 ;NAN;NAN
+759;904.0; Battle Chess 4000 ;34 Mins ;-- ;-- ;34 Mins ;   PC ;   Board Game ;   Interplay ;   Interplay ; 1992 ;NAN;NAN
+760;905.0; Battle Chess II: Chinese Chess ;25 Mins ;-- ;-- ;25 Mins ;NAN;   Board Game ;NAN;NAN; 1991 ;NAN;NAN
+761;906.0; Battle City ;51 Mins ;1 Hours ;5 Hours ;2 Hours ;   Game Boy, NES, PC ;   Action ;   Namco ;   Namco ; 1985 ;NAN;NAN
+762;907.0; Battle Clash ;54 Mins ;-- ;-- ;54 Mins ;   Super Nintendo ;NAN;NAN;   Nintendo ;October 1992 ;March 18, 1993 ;June 21, 1993 
+763;908.0; Battle Dodgeball ;-- ;-- ;-- ;-- ;NAN;   Action ;   Banpresto ;   Banpresto ; 1991 ;NAN;NAN
+764;909.0; Battle Dodgeball 2 ;-- ;-- ;-- ;-- ;   Super Nintendo ;   Action ;   Banpresto ;   Banpresto ; 1993 ;NAN;NAN
+765;910.0; Battle Engine Aquila ;4 Hours ;6½ Hours ;-- ;5 Hours ;   PC, PlayStation 2 ;   Simulation ;   Lost Toys ;NAN;January 20, 2003 ;NAN;NAN
+766;911.0; Battle Fantasia ;59 Mins ;7½ Hours ;-- ;1½ Hours ;   PC, PlayStation 3, Xbox 360 ;   Fighting ;   Arc System Works ;NAN;September 16, 2008 ;March 06, 2009 ;April 26, 2007 
+767;912.0; The Battle for Wesnoth ;21 Hours ;-- ;-- ;21 Hours ;   PC ;NAN;   David White ;   David White ;October 02, 2005 ;May 01, 2018 ;NAN
+768;913.0; Battle Garegga ;51 Mins ;58 Mins ;-- ;52 Mins ;   Arcade, PlayStation 4, Sega Saturn, Xbox One ;   Top-Down ;NAN;NAN;September 29, 2017 ;September 29, 2017 ;February 01, 1996 
+769;914.0; Battle Group ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+770;915.0; Battle Hunter ;-- ;-- ;-- ;-- ;NAN;   Tactical RPG ;   Success Corporation ;NAN;June 01, 2001 ;NAN;December 22, 1999 
+771;916.0; Battle Isle ;-- ;-- ;-- ;-- ;   Amiga, PC ;   Strategy ;   Blue Byte Software ;   Blue Byte Software ; 1991 ;NAN;NAN
+772;917.0; Battle Isle 2200 ;-- ;-- ;-- ;-- ;   PC ;   Strategy ;   Blue Byte Software ;   Blue Byte Software ; 1994 ;NAN;NAN
+773;918.0; Battle Isle 2220 - Shadow of the Emperor ;8½ Hours ;-- ;-- ;8½ Hours ;   PC ;   Strategy ;   Blue Byte Software ;   Blue Byte Software ; 1995 ;NAN;NAN
+774;920.0; Battle Kid: Fortress of Peril ;4 Hours ;-- ;11 Hours ;7½ Hours ;   NES ;   Platform ;   Sivak Games ;   Retrozone ;February 22, 2010 ;NAN;NAN
+775;922.0; Battle Mobile ;-- ;-- ;-- ;-- ;   Super Nintendo ;NAN;NAN;   System Sacom ;NAN;NAN;NAN
+776;923.0; Battle of Britain II: Wings of Victory ;-- ;-- ;-- ;-- ;NAN;NAN;   A2A Simulations ;NAN;September 12, 2005 ;NAN;NAN
+777;924.0; Battle Out Run ;1 Hours ;-- ;-- ;1 Hours ;   Sega Master System ;   Racing ;   Sega ;   Sega ;NAN; 1989 ;NAN
+778;925.0; Battle Realms ;19 Hours ;43½ Hours ;49 Hours ;35 Hours ;   PC ;NAN;   Liquid Entertainment ;   Ubisoft ;November 07, 2001 ;NAN;NAN
+779;926.0; Battle Shark ;21 Mins ;-- ;-- ;21 Mins ;   Arcade, PlayStation 2 ;   Shooter ;   Taito ;   Taito ;July 19, 1989 ;NAN;NAN
+780;930.0; Battlecruiser 3000AD ;-- ;-- ;-- ;-- ;NAN;NAN;   3000 AD ;NAN;September 30, 1996 ;NAN;NAN
+781;931.0; Battlefield 1942 ;8 Hours ;23½ Hours ;26 Hours ;12 Hours ;   PC ;   First-person shooter ;   Digital Illusions CE ;NAN;September 10, 2002 ;September 20, 2002 ;NAN
+782;932.0; Battlefield 1942: Secret Weapons of WWII ;5 Hours ;10 Hours ;30 Hours ;7½ Hours ;   PC ;   First-Person Shooter ;   Digital Illusions CE ;   EA Games ;September 04, 2003 ;September 05, 2003 ;NAN
+783;933.0; Battlefield 1942: The Road to Rome ;3 Hours ;3½ Hours ;30 Hours ;6 Hours ;   PC ;   First-Person Shooter ;   Digital Illusions CE ;   EA Games ;February 02, 2003 ;February 07, 2003 ;NAN
+784;934.0; Battlefield 1943 ;7½ Hours - 31 Hours ;-- ;26½ Hours ;NAN;   PlayStation 3, Xbox 360, Xbox One ;   First-person shooter ;   EA Digital Illusions CE ;   Electronic Arts ;July 08, 2009 ;July 08, 2009 ;NAN
+785;935.0; Battlefield 2 ;9½ Hours ;30 Hours ;98½ Hours ;21½ Hours ;   PC, Xbox 360 ;   First-person shooter ;   Digital Illusions CE ;   EA Games ;June 21, 2005 ;June 24, 2005 ;NAN
+786;936.0; Battlefield 2142 ;-- ;80 Hours ;NAN;NAN;   PC ;NAN;   Digital Illusions CE (DICE Stockholm) ;   Electronic Arts ;October 17, 2006 ;October 20, 2006 ;NAN
+787;937.0; Battlefield 2: Armored Fury ;3 Hours ;3 Hours ;NAN;NAN;   PC ;NAN;   Digital Illusions CE ;   EA Games ;June 06, 2006 ;NAN;NAN
+788;938.0; Battlefield 2: Euro Force ;3 Hours ;3 Hours ;NAN;NAN;   PC ;NAN;   Digital Illusions CE ;   EA Games ;March 15, 2006 ;NAN;NAN
+789;939.0; Battlefield 2: Modern Combat ;7 Hours ;9 Hours ;12 Hours ;7½ Hours ;   PlayStation 2, Xbox, Xbox 360 ;   First-person shooter ;   Digital Illusions ;   EA Games ;October 24, 2005 ;November 18, 2005 ;January 26, 2006 
+790;940.0; Battlefield 2: Special Forces ;7 Hours ;13½ Hours ;NAN;NAN;   PC ;NAN;   Digital Illusions CE: Canada ;   EA Games ;November 22, 2005 ;NAN;November 24, 2005 
+791;941.0; Battlefield 3 ;6 Hours ;12 Hours ;65½ Hours ;8½ Hours ;   PC, PlayStation 3, Xbox 360, Xbox One ;NAN;   EA Digital Illusions CE ;   Electronic Arts ;October 25, 2011 ;October 28, 2011 ;NAN
+792;942.0; Battlefield 4 ;6 Hours ;8½ Hours ;14½ Hours ;7 Hours ;   PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One ;NAN;   EA Digital Illusions CE ;   Electronic Arts ;October 29, 2013 ;November 01, 2013 ;October 31, 2013 
+793;943.0; Battlefield Bad Company 2: Vietnam ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+794;944.0; Battlefield Vietnam ;13½ Hours ;15 Hours ;15½ Hours ;14 Hours ;   PC ;NAN;   Digital Illusions CE ;   Electronic Arts ;March 14, 2004 ;NAN;NAN
+795;946.0; Battlefield: Bad Company 2 ;7 Hours ;10½ Hours ;15½ Hours ;7½ Hours ;   Mobile, PC, PlayStation 3, Xbox 360 ;NAN;   EA Digital Illusions CE ;   Electronic Arts ;March 02, 2010 ;March 02, 2010 ;NAN
+796;947.0; BattleForge ;-- ;-- ;-- ;-- ;   PC ;   Real-Time Strategy ;   EA Phenomic ;   Electronic Arts ;March 23, 2009 ;March 27, 2009 ;NAN
+797;948.0; Battleheart ;4½ Hours ;10 Hours ;11½ Hours ;6 Hours ;   Mobile ;NAN;   Mika Mobile ;NAN;NAN;NAN;NAN
+798;950.0; Battlemorph ;-- ;-- ;-- ;-- ;NAN;   Shooter ;   Attention To Detail ;   Atari ; 1995 ; 1995 ;NAN
+799;952.0; Battlestations: Midway ;7 Hours ;8 Hours ;-- ;7½ Hours ;   PC, Xbox 360 ;NAN;NAN;NAN;January 30, 2007 ;January 30, 2007 ;NAN
+800;953.0; Battlestations: Pacific ;10 Hours ;11 Hours ;13½ Hours ;12 Hours ;   PC, Xbox 360 ;NAN;NAN;NAN;May 12, 2009 ;NAN;NAN
+801;954.0; BattleTanx ;2½ Hours ;6½ Hours ;-- ;4 Hours ;   Nintendo 64 ;   Action ;   3DO ;   3DO ;December 31, 1998 ;NAN;NAN
+802;955.0; BattleTanx: Global Assault ;5 Hours ;6 Hours ;24 Hours ;6½ Hours ;   Nintendo 64, PlayStation ;   Action ;   3DO ;   3DO ;October 12, 1999 ;NAN;NAN
+803;956.0; Battletech (1994) ;2 Hours ;20 Hours ;-- ;5 Hours ;   Sega Mega Drive/Genesis, Super Nintendo ;NAN;   Malibu ;   Activision ; 1994 ;NAN;NAN
+804;957.0; Battletoads (1991) ;1h ;-- ;1h ;1h ;   Amiga, Atari ST, Game Boy, Game Boy Advance, NES, Sega Game Gear, Sega Mega Drive/Genesis, Xbox One ;NAN;NAN;NAN;June 1991 ; 1991 ;December 20, 1991 
+805;958.0; Battletoads & Double Dragon ;1½ Hours ;3½ Hours ;4 Hours ;2 Hours ;   Game Boy, NES, Sega Mega Drive/Genesis, Super Nintendo ;   Beat 'em up ;   Rare Ltd. ;NAN;June 1993 ; 1993 ;NAN
+806;959.0; Battletoads (1994) ;1 Hours ;1½ Hours ;2½ Hours ;1½ Hours ;   Arcade, Xbox One ;NAN;   Rare ;   Electronic Arts ;December 1994 ;NAN;NAN
+807;960.0; Battletoads in Battlemaniacs ;1 Hours ;-- ;4 Hours ;2 Hours ;   Super Nintendo ;NAN;   Rare Ltd. ;NAN;June 1993 ; 1993 ;January 07, 1994 
+808;961.0; Battletoads in Ragnarok's World ;2 Hours ;-- ;8 Hours ;3 Hours ;   Game Boy ;NAN;   Rare ;   Tradewest ; 1993 ;NAN;NAN
+809;962.0; Battlezone (1980) ;5 Mins ;-- ;-- ;5 Mins ;   Arcade, Atari 2600 ;NAN;   Atari ;   Atari ;November 1980 ;NAN;NAN
+810;963.0; Battlezone (1998) ;12½ Hours ;-- ;-- ;12½ Hours ;   PC ;NAN;   Activision ;   Activision ;February 28, 1998 ;NAN;NAN
+811;964.0; Battlezone II: Combat Commander ;12 Hours ;-- ;-- ;12 Hours ;   PC ;NAN;   Pandemic Studios ;   Activision ; 1999 ;NAN;NAN
+812;965.0; Bay Route ;22 Mins ;-- ;-- ;22 Mins ;NAN;   Platform ;   Sunsoft ;   Sega ; 1989 ;NAN;NAN
+813;966.0; Bayonetta ;11½ Hours ;15½ Hours ;42½ Hours ;13 Hours ;   Nintendo Switch, PC, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One ;NAN;   PlatinumGames ;   Sega ;January 05, 2010 ;January 08, 2010 ;October 29, 2009 
+814;967.0; Bayonetta 2 ;9 Hours ;12½ Hours ;48½ Hours ;10½ Hours ;   Nintendo Switch, Wii U ;NAN;   PlatinumGames ;   Nintendo ;October 24, 2014 ;October 24, 2014 ;September 20, 2014 
+815;968.0; BC Kings ;13½ Hours ;-- ;-- ;13½ Hours ;   PC ;NAN;   Mascot Entertainment ;NAN;NAN;NAN;NAN
+816;970.0; Beach Head 2000 ;-- ;-- ;-- ;-- ;   PC ;   Action ;NAN;NAN;NAN;NAN;NAN
+817;971.0; Beach Spikers ;5½ Hours ;-- ;-- ;5½ Hours ;   Nintendo GameCube ;   Sports ;   Sega-AM2 ;   Sega ;August 12, 2002 ;September 27, 2002 ;July 19, 2002 
+818;973.0; Beast Boxing Turbo ;1½ Hours ;2 Hours ;2 Hours ;1½ Hours ;   PC ;NAN;   Good Hustle ;NAN;NAN;NAN;NAN
+819;975.0; Beat Down: Fists of Vengeance ;10 Hours ;16 Hours ;-- ;12½ Hours ;   PlayStation 2, Xbox ;NAN;   Cavia ;   Capcom ;August 23, 2005 ;NAN;November 03, 2005 
+820;976.0; Beat Hazard ;5 Hours ;11½ Hours ;23½ Hours ;10 Hours ;   PC ;NAN;   Cold Beam Games ;   Cold Beam Games ;April 15, 2010 ;April 15, 2010 ;NAN
+821;977.0; Beat Hazard: Ultra ;5 Hours ;14½ Hours ;24 Hours ;18½ Hours ;   Mobile, PC, PlayStation 3 ;NAN;   Cold Beam Games ;   Cold Beam Games ;June 16, 2011 ;June 16, 2011 ;NAN
+822;978.0; Beatmania (2006) ;41 Hours ;45 Hours ;-- ;43½ Hours ;   PlayStation 2 ;   Music ;   Konami ;   Konami ;March 28, 2006 ;NAN;NAN
+823;979.0; Beatmania 16 Empress ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+824;980.0; Beatmania IIDX 11 IIDXRED ;-- ;12 Hours ;-- ;12 Hours ;   PlayStation 2 ;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN; 2004 
+825;981.0; Beatmania IIDX 12: Happy Sky ;-- ;10 Hours ;-- ;10 Hours ;   Arcade, PlayStation 2 ;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;July 13, 2005 
+826;982.0; Beatmania IIDX 13: Distorted ;-- ;15 Hours ;-- ;15 Hours ;   PlayStation 2 ;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;March 15, 2006 
+827;983.0; Beatmania IIDX 14: Gold ;-- ;10 Hours ;-- ;10 Hours ;NAN;   Music/Rhythm ;   Konami ;   Konami ;February 21, 2007 ;NAN;NAN
+828;984.0; Beatmania IIDX 15: DJ Troopers ;-- ;9 Hours ;-- ;9 Hours ;NAN;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;December 19, 2007 
+829;985.0; Beatmania IIDX 16: Empress ;-- ;7 Hours ;-- ;7 Hours ;   Arcade ;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;October 15, 2009 
+830;986.0; Beatmania IIDX 7th Style ;-- ;10 Hours ;-- ;10 Hours ;   PlayStation 2 ;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;March 2002 
+831;987.0; Beatmania IIDX Premium Best ;-- ;6 Hours ;-- ;6 Hours ;NAN;   Music/Rhythm ;   Konami ;   Konami ;NAN;NAN;October 15, 2009 
+832;988.0; Beautiful Escape: Dungeoneer ;2 Hours ;3 Hours ;-- ;2 Hours ;   PC ;NAN;   Calunio ;NAN;May 17, 2010 ;NAN;NAN
+833;989.0; Beautiful Katamari ;6 Hours ;12½ Hours ;48½ Hours ;10 Hours ;   Xbox 360 ;NAN;NAN;   Namco Bandai ;October 16, 2007 ;February 29, 2008 ;October 18, 2007 
+834;990.0; Beavis and Butt-head ;2 Hours ;3 Hours ;4½ Hours ;3½ Hours ;   Game Boy, Sega Game Gear, Sega Mega Drive/Genesis, Super Nintendo ;   Action ;NAN;NAN; 1994 ; 1995 ;NAN
+835;991.0; Beavis and Butt-head in Virtual Stupidity ;3½ Hours ;-- ;5 Hours ;4 Hours ;   PC, PlayStation ;   Adventure ;NAN;   B-Factory ;August 25, 1995 ;NAN;NAN
+836;992.0; Bee 52 ;-- ;-- ;-- ;-- ;NAN;NAN;   Codemasters ;   Camerica ; 1992 ;NAN;NAN
+837;993.0; Bee Movie Game ;6 Hours ;6 Hours ;6½ Hours ;6 Hours ;   Nintendo DS, PC, PlayStation 2, Wii, Xbox 360 ;NAN;NAN;   Activision ;October 30, 2007 ;NAN;NAN
+838;994.0; BEEP (2011) ;5½ Hours ;5½ Hours ;7 Hours ;6 Hours ;   PC ;NAN;   Big Fat Alien ;   Big Fat Alien ;March 03, 2011 ;March 03, 2011 ;NAN
+839;995.0; Beetle Adventure Racing ;-- ;-- ;-- ;-- ;NAN;NAN;NAN;NAN;NAN;NAN;NAN
+840;996.0; Beetle Adventure Racing! ;6 Hours ;10 Hours ;15 Hours ;10½ Hours ;   Nintendo 64 ;NAN;   Paradigm Entertainment ;   Electronic Arts ;March 24, 1999 ;September 04, 1999 ;NAN
+841;997.0; Beggar Prince ;-- ;-- ;-- ;-- ;NAN;   Role-Playing ;   C&E ;   C&E ; 1996 ;NAN;NAN
